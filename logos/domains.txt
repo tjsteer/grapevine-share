@@ -1,0 +1,2193 @@
+# Organisation name | its own website. One per line. The logo robot fetches each site's icon.
+# Add a line here and push: logos.json updates within a few minutes.
+Astralis Foundation (with Macroscopic Ventures)|middlepowers.ai
+Effective Institutions Project|effectiveinstitutionsproject.org
+No10 Policy Unit, 10 Downing Street|gov.uk
+10 Downing Street|gov.uk
+NYU Center for Mind, Ethics, and Policy|nyu.edu
+Anthropic|anthropic.com
+Tarbell Center for AI Journalism|tarbellcenter.org
+Centre for the Governance of AI (GovAI)|governance.ai
+GovAI|governance.ai
+Centre for British Progress|britishprogress.org
+Emergent Ventures, Mercatus Center|mercatus.org
+Mercatus Center|mercatus.org
+UK AI Security Institute|aisi.gov.uk
+AI Security Institute|aisi.gov.uk
+Americans for Responsible Innovation|ari.us
+Coefficient Giving|coefficientgiving.org
+LISA|safeai.org.uk
+London Initiative for Safe AI|safeai.org.uk
+Longview Philanthropy|longview.org
+South Yorkshire Mayoral Combined Authority|southyorkshire-ca.gov.uk
+AI Economics Institute (HM Treasury and PM's AI Taskforce)|gov.uk
+HM Treasury|gov.uk
+Cabinet Office|gov.uk
+Department for Science, Innovation and Technology|gov.uk
+Department for Science, Innovation and Technology (DSIT)|gov.uk
+DSIT|gov.uk
+Ministry of Defence|gov.uk
+Department of Health and Social Care|gov.uk
+Foreign, Commonwealth and Development Office|gov.uk
+Competition and Markets Authority|gov.uk
+London School of Economics|lse.ac.uk
+LSE|lse.ac.uk
+Blavatnik School of Government, University of Oxford|bsg.ox.ac.uk
+Blavatnik School of Government|bsg.ox.ac.uk
+University of Oxford|ox.ac.uk
+University of Cambridge|cam.ac.uk
+Bennett Institute for Public Policy|bennettinstitute.cam.ac.uk
+University College London|ucl.ac.uk
+UCL|ucl.ac.uk
+King's College London|kcl.ac.uk
+Yale University|yale.edu
+Harvard University|harvard.edu
+University of Leeds (White Rose DTP)|leeds.ac.uk
+University of Leeds|leeds.ac.uk
+RAND Europe|rand.org
+RAND|rand.org
+RAND Corporation|rand.org
+RUSI (Royal United Services Institute)|rusi.org
+RUSI|rusi.org
+Royal United Services Institute|rusi.org
+Institute for Government|instituteforgovernment.org.uk
+Resolution Foundation|resolutionfoundation.org
+Ada Lovelace Institute|adalovelaceinstitute.org
+Alan Turing Institute|turing.ac.uk
+The Alan Turing Institute|turing.ac.uk
+Tony Blair Institute for Global Change|institute.global
+Tony Blair Institute|institute.global
+Institute for Fiscal Studies|ifs.org.uk
+Centre for Cities|centreforcities.org
+Onward|ukonward.com
+Policy Exchange|policyexchange.org.uk
+Chatham House|chathamhouse.org
+IPPR|ippr.org
+Nesta|nesta.org.uk
+Demos|demos.co.uk
+Centre for Policy Studies|cps.org.uk
+Social Market Foundation|smf.co.uk
+Centre for Long-Term Resilience|longtermresilience.org
+Bank of England|bankofengland.co.uk
+Office for National Statistics|ons.gov.uk
+National Audit Office|nao.org.uk
+Ofcom|ofcom.org.uk
+UK Research and Innovation|ukri.org
+UKRI|ukri.org
+ESRC|ukri.org
+Royal Society|royalsociety.org
+Wellcome|wellcome.org
+Open Philanthropy|openphilanthropy.org
+Gates Foundation|gatesfoundation.org
+Google DeepMind|deepmind.google
+DeepMind|deepmind.google
+OpenAI|openai.com
+Microsoft|microsoft.com
+Meta|meta.com
+Faculty|faculty.ai
+Apollo Research|apolloresearch.ai
+METR|metr.org
+Epoch AI|epoch.ai
+IAPS|iaps.ai
+Institute for AI Policy and Strategy|iaps.ai
+Future of Life Institute|futureoflife.org
+Frontier Model Forum|frontiermodelforum.org
+Center for Security and Emerging Technology|cset.georgetown.edu
+CSET|cset.georgetown.edu
+Institute for Progress|ifp.org
+Brookings Institution|brookings.edu
+Carnegie Endowment for International Peace|carnegieendowment.org
+CSIS|csis.org
+OECD|oecd.org
+World Bank|worldbank.org
+IMF|imf.org
+International Monetary Fund|imf.org
+European Commission|commission.europa.eu
+McKinsey & Company|mckinsey.com
+Boston Consulting Group|bcg.com
+# --- UK government, parliament and public bodies
+Home Office|gov.uk
+Ministry of Justice|gov.uk
+Department for Education|gov.uk
+Department for Work and Pensions|gov.uk
+Department for Business and Trade|gov.uk
+Department for Energy Security and Net Zero|gov.uk
+Department for Environment, Food and Rural Affairs|gov.uk
+DEFRA|gov.uk
+Department for Transport|gov.uk
+Department for Culture, Media and Sport|gov.uk
+Ministry of Housing, Communities and Local Government|gov.uk
+MHCLG|gov.uk
+Department for Levelling Up, Housing and Communities|gov.uk
+FCDO|gov.uk
+Foreign Office|gov.uk
+Government Office for Science|gov.uk
+Prime Minister's Office|gov.uk
+Number 10|gov.uk
+No10|gov.uk
+No10 Policy Unit|gov.uk
+Policy Unit, 10 Downing Street|gov.uk
+Incubator for AI|gov.uk
+i.AI|gov.uk
+Government Digital Service|gov.uk
+Central Digital and Data Office|gov.uk
+HM Revenue and Customs|gov.uk
+HMRC|gov.uk
+Government Legal Department|gov.uk
+Crown Commercial Service|gov.uk
+National Security Secretariat|gov.uk
+Cabinet Office Strategy Unit|gov.uk
+Regulatory Policy Committee|gov.uk
+Office for Budget Responsibility|obr.uk
+OBR|obr.uk
+Debt Management Office|dmo.gov.uk
+National Infrastructure Commission|nic.org.uk
+Infrastructure and Projects Authority|gov.uk
+Government Communications Headquarters|gchq.gov.uk
+GCHQ|gchq.gov.uk
+National Cyber Security Centre|ncsc.gov.uk
+NCSC|ncsc.gov.uk
+MI5|mi5.gov.uk
+Secret Intelligence Service|sis.gov.uk
+MI6|sis.gov.uk
+Defence Science and Technology Laboratory|gov.uk
+Dstl|gov.uk
+Advanced Research and Invention Agency|aria.org.uk
+ARIA|aria.org.uk
+Innovate UK|ukri.org
+Engineering and Physical Sciences Research Council|ukri.org
+EPSRC|ukri.org
+Medical Research Council|ukri.org
+Arts and Humanities Research Council|ukri.org
+Information Commissioner's Office|ico.org.uk
+ICO|ico.org.uk
+Financial Conduct Authority|fca.org.uk
+FCA|fca.org.uk
+Prudential Regulation Authority|bankofengland.co.uk
+Ofgem|ofgem.gov.uk
+Ofwat|ofwat.gov.uk
+Ofsted|gov.uk
+Ofqual|gov.uk
+Office of Rail and Road|orr.gov.uk
+Civil Aviation Authority|caa.co.uk
+Medicines and Healthcare products Regulatory Agency|gov.uk
+MHRA|gov.uk
+NHS England|england.nhs.uk
+NHS|nhs.uk
+NHSX|england.nhs.uk
+National Institute for Health and Care Excellence|nice.org.uk
+NICE|nice.org.uk
+UK Health Security Agency|gov.uk
+UKHSA|gov.uk
+Public Health England|gov.uk
+Health Foundation|health.org.uk
+The Health Foundation|health.org.uk
+King's Fund|kingsfund.org.uk
+The King's Fund|kingsfund.org.uk
+Nuffield Trust|nuffieldtrust.org.uk
+Nuffield Foundation|nuffieldfoundation.org
+Nuffield Council on Bioethics|nuffieldbioethics.org
+Office for Students|officeforstudents.org.uk
+British Council|britishcouncil.org
+British Business Bank|british-business-bank.co.uk
+UK Export Finance|gov.uk
+National Wealth Fund|nationalwealthfund.org.uk
+UK Infrastructure Bank|nationalwealthfund.org.uk
+Great British Energy|gov.uk
+Low Pay Commission|gov.uk
+Migration Advisory Committee|gov.uk
+Climate Change Committee|theccc.org.uk
+Committee on Climate Change|theccc.org.uk
+Electoral Commission|electoralcommission.org.uk
+Equality and Human Rights Commission|equalityhumanrights.com
+Charity Commission|gov.uk
+Competition Appeal Tribunal|catribunal.org.uk
+Payment Systems Regulator|psr.org.uk
+The Pensions Regulator|thepensionsregulator.gov.uk
+Pension Protection Fund|ppf.co.uk
+House of Commons|parliament.uk
+House of Lords|parliament.uk
+UK Parliament|parliament.uk
+Parliamentary Office of Science and Technology|parliament.uk
+POST|parliament.uk
+House of Commons Library|parliament.uk
+Scottish Government|gov.scot
+Scottish Parliament|parliament.scot
+Welsh Government|gov.wales
+Senedd|senedd.wales
+Northern Ireland Executive|northernireland.gov.uk
+Greater London Authority|london.gov.uk
+Mayor of London|london.gov.uk
+Transport for London|tfl.gov.uk
+TfL|tfl.gov.uk
+Greater Manchester Combined Authority|greatermanchester-ca.gov.uk
+West Midlands Combined Authority|wmca.org.uk
+Liverpool City Region Combined Authority|liverpoolcityregion-ca.gov.uk
+West Yorkshire Combined Authority|westyorks-ca.gov.uk
+North East Combined Authority|northeast-ca.gov.uk
+Tees Valley Combined Authority|teesvalley-ca.gov.uk
+Cambridgeshire and Peterborough Combined Authority|cambridgeshirepeterborough-ca.gov.uk
+West of England Combined Authority|westofengland-ca.gov.uk
+East Midlands Combined County Authority|eastmidlands-cca.gov.uk
+Transport for the North|transportforthenorth.com
+Local Government Association|local.gov.uk
+LGA|local.gov.uk
+North East Lincolnshire Council|nelincs.gov.uk
+Hull City Council|hull.gov.uk
+Birmingham City Council|birmingham.gov.uk
+Manchester City Council|manchester.gov.uk
+Leeds City Council|leeds.gov.uk
+Sheffield City Council|sheffield.gov.uk
+Camden Council|camden.gov.uk
+Bristol City Council|bristol.gov.uk
+Ministry of Defence (UK)|gov.uk
+British Army|army.mod.uk
+Royal Navy|royalnavy.mod.uk
+Royal Air Force|raf.mod.uk
+Defence Academy of the United Kingdom|da.mod.uk
+UK Space Agency|gov.uk
+Met Office|metoffice.gov.uk
+Ordnance Survey|ordnancesurvey.co.uk
+Office for National Statistics (ONS)|ons.gov.uk
+UK Statistics Authority|uksa.statisticsauthority.gov.uk
+National Physical Laboratory|npl.co.uk
+UK Atomic Energy Authority|gov.uk
+Nuclear Decommissioning Authority|gov.uk
+Environment Agency|gov.uk
+Natural England|gov.uk
+Historic England|historicengland.org.uk
+Arts Council England|artscouncil.org.uk
+BBC|bbc.co.uk
+Channel 4|channel4.com
+Ofcom (UK)|ofcom.org.uk
+Government Actuary's Department|gov.uk
+Behavioural Insights Team|bi.team
+Behavioural Insights Team (BIT)|bi.team
+What Works Network|gov.uk
+Education Endowment Foundation|educationendowmentfoundation.org.uk
+Centre for Data Ethics and Innovation|gov.uk
+Responsible Technology Adoption Unit|gov.uk
+Digital Catapult|digicatapult.org.uk
+Connected Places Catapult|cp.catapult.org.uk
+Satellite Applications Catapult|sa.catapult.org.uk
+Energy Systems Catapult|es.catapult.org.uk
+High Value Manufacturing Catapult|hvm.catapult.org.uk
+Bank of England (BoE)|bankofengland.co.uk
+Financial Reporting Council|frc.org.uk
+Serious Fraud Office|gov.uk
+National Crime Agency|nationalcrimeagency.gov.uk
+Crown Prosecution Service|cps.gov.uk
+Metropolitan Police|met.police.uk
+Supreme Court of the United Kingdom|supremecourt.uk
+Law Commission|lawcom.gov.uk
+Judicial Appointments Commission|judicialappointments.gov.uk
+Prison Service|gov.uk
+HM Prison and Probation Service|gov.uk
+Independent Office for Police Conduct|policeconduct.gov.uk
+# --- US government
+The White House|whitehouse.gov
+White House|whitehouse.gov
+Office of Science and Technology Policy|whitehouse.gov
+OSTP|whitehouse.gov
+National Security Council|whitehouse.gov
+Office of Management and Budget|whitehouse.gov
+OMB|whitehouse.gov
+National Economic Council|whitehouse.gov
+Council of Economic Advisers|whitehouse.gov
+U.S. Department of State|state.gov
+US Department of State|state.gov
+United States Department of State|state.gov
+State Department|state.gov
+U.S. Department of the Treasury|treasury.gov
+US Department of the Treasury|treasury.gov
+United States Department of the Treasury|treasury.gov
+U.S. Department of Defense|defense.gov
+US Department of Defense|defense.gov
+Department of Defense|defense.gov
+Pentagon|defense.gov
+U.S. Department of Commerce|commerce.gov
+US Department of Commerce|commerce.gov
+Bureau of Industry and Security|bis.gov
+National Institute of Standards and Technology|nist.gov
+NIST|nist.gov
+US AI Safety Institute|nist.gov
+Center for AI Standards and Innovation|nist.gov
+CAISI|nist.gov
+National Telecommunications and Information Administration|ntia.gov
+U.S. Department of Energy|energy.gov
+US Department of Energy|energy.gov
+U.S. Department of Labor|dol.gov
+US Department of Labor|dol.gov
+U.S. Department of Transportation|transportation.gov
+US Department of Transportation|transportation.gov
+U.S. Department of Homeland Security|dhs.gov
+Department of Homeland Security|dhs.gov
+Cybersecurity and Infrastructure Security Agency|cisa.gov
+CISA|cisa.gov
+U.S. Department of Justice|justice.gov
+Department of Justice|justice.gov
+Federal Bureau of Investigation|fbi.gov
+FBI|fbi.gov
+U.S. Department of Health and Human Services|hhs.gov
+Department of Health and Human Services|hhs.gov
+National Institutes of Health|nih.gov
+NIH|nih.gov
+Centers for Disease Control and Prevention|cdc.gov
+CDC|cdc.gov
+Food and Drug Administration|fda.gov
+FDA|fda.gov
+U.S. Department of Education|ed.gov
+Department of Education (US)|ed.gov
+U.S. Department of Agriculture|usda.gov
+USDA|usda.gov
+U.S. Department of the Interior|doi.gov
+U.S. Department of Housing and Urban Development|hud.gov
+HUD|hud.gov
+U.S. Department of Veterans Affairs|va.gov
+Environmental Protection Agency|epa.gov
+EPA|epa.gov
+Federal Trade Commission|ftc.gov
+FTC|ftc.gov
+Federal Communications Commission|fcc.gov
+FCC|fcc.gov
+US Securities and Exchange Commission (SEC)|sec.gov
+Securities and Exchange Commission|sec.gov
+SEC|sec.gov
+Commodity Futures Trading Commission|cftc.gov
+Consumer Financial Protection Bureau|consumerfinance.gov
+CFPB|consumerfinance.gov
+Federal Reserve|federalreserve.gov
+Federal Reserve Board|federalreserve.gov
+Board of Governors of the Federal Reserve System|federalreserve.gov
+Federal Reserve Bank of New York|newyorkfed.org
+New York Fed|newyorkfed.org
+Federal Reserve Bank of San Francisco|frbsf.org
+Federal Reserve Bank of Chicago|chicagofed.org
+Federal Reserve Bank of Boston|bostonfed.org
+Federal Reserve Bank of Atlanta|atlantafed.org
+Federal Reserve Bank of Philadelphia|philadelphiafed.org
+Federal Reserve Bank of Minneapolis|minneapolisfed.org
+Federal Reserve Bank of Richmond|richmondfed.org
+Federal Reserve Bank of St. Louis|stlouisfed.org
+Federal Reserve Bank of Kansas City|kansascityfed.org
+Federal Reserve Bank of Dallas|dallasfed.org
+Federal Reserve Bank of Cleveland|clevelandfed.org
+FDIC|fdic.gov
+Office of the Comptroller of the Currency|occ.gov
+U.S. Agency for International Development|usaid.gov
+USAID|usaid.gov
+United States Agency for International Development (USAID)|usaid.gov
+Millennium Challenge Corporation|mcc.gov
+U.S. International Development Finance Corporation|dfc.gov
+U.S. International Development Finance Corporation (DFC)|dfc.gov
+Export-Import Bank of the United States|exim.gov
+Office of the United States Trade Representative|ustr.gov
+USTR|ustr.gov
+U.S. Senate|senate.gov
+US Senate|senate.gov
+United States Senate|senate.gov
+U.S. House of Representatives|house.gov
+US House of Representatives|house.gov
+Congressional Budget Office|cbo.gov
+CBO|cbo.gov
+Congressional Research Service|loc.gov
+Library of Congress|loc.gov
+Government Accountability Office|gao.gov
+GAO|gao.gov
+National Science Foundation|nsf.gov
+NSF|nsf.gov
+NASA|nasa.gov
+DARPA|darpa.mil
+IARPA|iarpa.gov
+Office of the Director of National Intelligence|dni.gov
+ODNI|dni.gov
+Central Intelligence Agency|cia.gov
+CIA|cia.gov
+National Security Agency|nsa.gov
+NSA|nsa.gov
+U.S. Army|army.mil
+US Army|army.mil
+U.S. Navy|navy.mil
+US Navy|navy.mil
+U.S. Air Force|af.mil
+US Air Force|af.mil
+U.S. Space Force|spaceforce.mil
+U.S. Marine Corps|marines.mil
+US Coast Guard|uscg.mil
+National Guard|nationalguard.mil
+Defense Innovation Unit|diu.mil
+Chief Digital and AI Office|ai.mil
+Lawrence Livermore National Laboratory|llnl.gov
+Los Alamos National Laboratory|lanl.gov
+Sandia National Laboratories|sandia.gov
+Oak Ridge National Laboratory|ornl.gov
+Argonne National Laboratory|anl.gov
+National Renewable Energy Laboratory|nrel.gov
+Lawrence Berkeley National Laboratory|lbl.gov
+Pacific Northwest National Laboratory|pnnl.gov
+Brookhaven National Laboratory|bnl.gov
+U.S. Census Bureau|census.gov
+Bureau of Labor Statistics|bls.gov
+Bureau of Economic Analysis|bea.gov
+FEMA|fema.gov
+U.S. Federal Emergency Management Administration (FEMA)|fema.gov
+National Oceanic and Atmospheric Administration|noaa.gov
+US National Oceanic and Atmospheric Administration (NOAA)|noaa.gov
+National Park Service|nps.gov
+U.S. National Park Service|nps.gov
+AmeriCorps|americorps.gov
+Peace Corps|peacecorps.gov
+U.S. Digital Service|usds.gov
+18F|gsa.gov
+General Services Administration|gsa.gov
+Small Business Administration|sba.gov
+Social Security Administration|ssa.gov
+Internal Revenue Service|irs.gov
+U.S. Courts|uscourts.gov
+US Federal Judiciary|uscourts.gov
+Supreme Court of the United States|supremecourt.gov
+State of California|ca.gov
+California Air Resources Board|arb.ca.gov
+State of New York|ny.gov
+New York State|ny.gov
+Commonwealth of Massachusetts|mass.gov
+State of Colorado|colorado.gov
+State of Illinois|illinois.gov
+State of Texas|texas.gov
+State of Washington|wa.gov
+State of Oregon|oregon.gov
+State of Connecticut|ct.gov
+State of Michigan|michigan.gov
+State of New Jersey|nj.gov
+City of New York|nyc.gov
+City of New York, NY|nyc.gov
+NYC Mayor's Office|nyc.gov
+New York City Mayor's Office|nyc.gov
+City of Boston|boston.gov
+City of Boston, MA|boston.gov
+City of Chicago|chicago.gov
+City of Los Angeles|lacity.gov
+City of San Francisco|sf.gov
+City and County of San Francisco|sf.gov
+City of Seattle|seattle.gov
+City of Seattle, WA|seattle.gov
+Washington, DC Government|dc.gov
+Council of the District of Columbia|dccouncil.gov
+Metropolitan Transportation Authority|mta.info
+Metropolitan Transportation Authority (MTA)|mta.info
+Massachusetts Bay Transportation Authority|mbta.com
+Massachusetts Bay Transportation Authority (MBTA)|mbta.com
+Port Authority of New York and New Jersey|panynj.gov
+# --- Other governments, regulators and central banks
+European Commission (EU)|commission.europa.eu
+European Union|european-union.europa.eu
+European Parliament|europarl.europa.eu
+Council of the European Union|consilium.europa.eu
+European External Action Service|eeas.europa.eu
+EU AI Office|digital-strategy.ec.europa.eu
+European AI Office|digital-strategy.ec.europa.eu
+European Central Bank|ecb.europa.eu
+ECB|ecb.europa.eu
+European Investment Bank|eib.org
+EIB|eib.org
+European Bank for Reconstruction and Development|ebrd.com
+EBRD|ebrd.com
+European Court of Justice|curia.europa.eu
+European Ombudsman|ombudsman.europa.eu
+European Data Protection Supervisor|edps.europa.eu
+ENISA|enisa.europa.eu
+Europol|europol.europa.eu
+Joint Research Centre|joint-research-centre.ec.europa.eu
+Government of Canada|canada.ca
+Bank of Canada|bankofcanada.ca
+Global Affairs Canada|international.gc.ca
+Canadian AI Safety Institute|canada.ca
+Government of Ontario|ontario.ca
+Government of Australia|australia.gov.au
+Australian Department of Foreign Affairs and Trade|dfat.gov.au
+DFAT|dfat.gov.au
+Reserve Bank of Australia|rba.gov.au
+Productivity Commission|pc.gov.au
+New Zealand Treasury|treasury.govt.nz
+Reserve Bank of New Zealand|rbnz.govt.nz
+Government of Ireland|gov.ie
+Central Bank of Ireland|centralbank.ie
+Government of France|gouvernement.fr
+Banque de France|banque-france.fr
+French Development Agency (AFD)|afd.fr
+Agence Française de Développement|afd.fr
+Government of Germany|bundesregierung.de
+Deutsche Bundesbank|bundesbank.de
+Bundesbank|bundesbank.de
+German Federal Foreign Office|auswaertiges-amt.de
+GIZ|giz.de
+SPRIND|sprind.org
+Germany Federal Agency for Disruptive Innovation (SPRIND)|sprind.org
+Government of the Netherlands|government.nl
+De Nederlandsche Bank|dnb.nl
+CPB Netherlands Bureau for Economic Policy Analysis|cpb.nl
+Government of Sweden|government.se
+Sveriges Riksbank|riksbank.se
+Government of Norway|regjeringen.no
+Norges Bank|norges-bank.no
+Danmarks Nationalbank|nationalbanken.dk
+Government of Denmark|stm.dk
+Swiss National Bank|snb.ch
+Swiss Federal Department of Foreign Affairs|eda.admin.ch
+Banca d'Italia|bancaditalia.it
+Bank of Italy|bancaditalia.it
+Banco de España|bde.es
+Bank of Spain|bde.es
+Government of Spain|lamoncloa.gob.es
+Government of Japan|japan.go.jp
+Bank of Japan|boj.or.jp
+Japan International Cooperation Agency|jica.go.jp
+JICA|jica.go.jp
+Ministry of Economy, Trade and Industry (Japan)|meti.go.jp
+METI|meti.go.jp
+Japan AI Safety Institute|aisi.go.jp
+Government of Korea|korea.net
+Bank of Korea|bok.or.kr
+Government of Singapore|gov.sg
+Monetary Authority of Singapore|mas.gov.sg
+Government of Singapore, Monetary Authority of Singapore (MAS)|mas.gov.sg
+GovTech Singapore|tech.gov.sg
+Infocomm Media Development Authority|imda.gov.sg
+IMDA|imda.gov.sg
+Ministry of Defense Singapore|mindef.gov.sg
+Government of India|india.gov.in
+Reserve Bank of India|rbi.org.in
+Reserve Bank of India (RBI)|rbi.org.in
+NITI Aayog|niti.gov.in
+Government of Indonesia|indonesia.go.id
+Bank Indonesia|bi.go.id
+Central Bank of Indonesia|bi.go.id
+Government of Israel|gov.il
+Bank of Israel|boi.org.il
+Israel Innovation Authority|innovationisrael.org.il
+Government of the United Arab Emirates|u.ae
+Government of United Arab Emirates (UAE)|u.ae
+Government of Abu Dhabi|abudhabi.gov.ae
+Dubai Future Foundation|dubaifuture.ae
+Government of Saudi Arabia|my.gov.sa
+Public Investment Fund|pif.gov.sa
+Saudi Aramco|aramco.com
+Government of Brazil|gov.br
+Banco Central do Brasil|bcb.gov.br
+Government of Mexico|gob.mx
+Banco de México|banxico.org.mx
+Government of Colombia|gov.co
+Central Reserve Bank of Peru|bcrp.gob.pe
+Government of Chile|gob.cl
+Government of South Africa|gov.za
+South African Reserve Bank|resbank.co.za
+Central Bank of Nigeria|cbn.gov.ng
+Government of Nigeria|nigeria.gov.ng
+Government of Kenya|kenya.go.ke
+Central Bank of Kenya|centralbank.go.ke
+Government of Rwanda|gov.rw
+State Bank of Pakistan|sbp.org.pk
+Government of Pakistan|pakistan.gov.pk
+Government of Bangladesh|bangladesh.gov.bd
+Government of the Philippines|gov.ph
+Government of Ukraine|gov.ua
+Ministry of Foreign Affairs of Ukraine|mfa.gov.ua
+Government of Taiwan|gov.taiwan
+Hong Kong Monetary Authority|hkma.gov.hk
+Government of Estonia|valitsus.ee
+e-Estonia|e-estonia.com
+Government of Finland|valtioneuvosto.fi
+Bank of Finland|suomenpankki.fi
+Government of Poland|gov.pl
+Government of Barbados|gov.bb
+Government of Uzbekistan|gov.uz
+# --- International organisations and development banks
+United Nations|un.org
+UN|un.org
+United Nations Development Programme|undp.org
+UNDP|undp.org
+UNICEF|unicef.org
+United Nations Children's Fund (UNICEF)|unicef.org
+UNESCO|unesco.org
+UNHCR|unhcr.org
+UN Refugee Agency|unhcr.org
+World Food Programme|wfp.org
+United Nations World Food Programme (WFP)|wfp.org
+WFP|wfp.org
+World Health Organization|who.int
+WHO|who.int
+International Labour Organization|ilo.org
+ILO|ilo.org
+UN Women|unwomen.org
+UNFPA|unfpa.org
+UNEP|unep.org
+UN Environment Programme|unep.org
+UNFCCC|unfccc.int
+United Nations Framework Convention on Climate Change (UNFCCC)|unfccc.int
+UN-Habitat|unhabitat.org
+United Nations Human Settlements Programme (UN Habitat)|unhabitat.org
+UNCTAD|unctad.org
+UNIDO|unido.org
+UNIDIR|unidir.org
+United Nations Institute for Disarmament Research (UNIDIR)|unidir.org
+UNODC|unodc.org
+OHCHR|ohchr.org
+UN Human Rights Office|ohchr.org
+UNOPS|unops.org
+UNCDF|uncdf.org
+United Nations Capital Development Fund (UNCDF)|uncdf.org
+UN Global Compact|unglobalcompact.org
+United Nations Global Compact|unglobalcompact.org
+UN University|unu.edu
+United Nations University|unu.edu
+International Telecommunication Union|itu.int
+ITU|itu.int
+World Intellectual Property Organization|wipo.int
+WIPO|wipo.int
+International Atomic Energy Agency|iaea.org
+IAEA|iaea.org
+Organisation for the Prohibition of Chemical Weapons|opcw.org
+International Organization for Migration|iom.int
+IOM|iom.int
+International Organization for Migration (IOM)|iom.int
+International Committee of the Red Cross|icrc.org
+ICRC|icrc.org
+International Committee of the Red Cross (ICRC)|icrc.org
+International Federation of Red Cross and Red Crescent Societies|ifrc.org
+World Bank|worldbank.org
+World Bank Group|worldbank.org
+The World Bank|worldbank.org
+International Finance Corporation|ifc.org
+International Finance Corporation (IFC)|ifc.org
+IFC|ifc.org
+MIGA|miga.org
+International Monetary Fund (IMF)|imf.org
+Bank for International Settlements|bis.org
+BIS|bis.org
+Financial Stability Board|fsb.org
+World Trade Organization|wto.org
+WTO|wto.org
+Organisation for Economic Co-operation and Development (OECD)|oecd.org
+OECD.AI|oecd.ai
+International Energy Agency|iea.org
+IEA|iea.org
+IRENA|irena.org
+International Renewable Energy Agency|irena.org
+Asian Development Bank|adb.org
+Asian Development Bank (ADB)|adb.org
+ADB|adb.org
+Asian Development Bank Institute|adbi.org
+Asian Infrastructure Investment Bank|aiib.org
+AIIB|aiib.org
+African Development Bank|afdb.org
+AfDB|afdb.org
+Inter-American Development Bank|iadb.org
+Inter-American Development Bank (IDB)|iadb.org
+Inter-American Development Bank (IADB)|iadb.org
+IDB|iadb.org
+Islamic Development Bank|isdb.org
+Islamic Development Bank (IsDB)|isdb.org
+New Development Bank|ndb.int
+Green Climate Fund|greenclimate.fund
+Global Environment Facility|thegef.org
+Gavi|gavi.org
+Gavi, the Vaccine Alliance|gavi.org
+The Global Fund|theglobalfund.org
+The Global Fund to Fight AIDS, Tuberculosis, and Malaria|theglobalfund.org
+CEPI|cepi.net
+Unitaid|unitaid.org
+NATO|nato.int
+North Atlantic Treaty Organization|nato.int
+OSCE|osce.org
+Council of Europe|coe.int
+European Court of Human Rights|echr.coe.int
+International Criminal Court|icc-cpi.int
+International Court of Justice|icj-cij.org
+Commonwealth Secretariat|thecommonwealth.org
+The Commonwealth|thecommonwealth.org
+G7|g7italy.it
+African Union|au.int
+ASEAN|asean.org
+Association of Southeast Asian Nations|asean.org
+Organization of American States|oas.org
+OAS|oas.org
+Global Partnership on Artificial Intelligence|gpai.ai
+GPAI|gpai.ai
+British International Investment|bii.co.uk
+CDC Group|bii.co.uk
+FMO|fmo.nl
+Proparco|proparco.fr
+KfW|kfw.de
+KfW Development Bank|kfw.de
+Norfund|norfund.no
+Swedfund|swedfund.se
+Latin American Reserve Fund|flar.com
+CAF Development Bank of Latin America|caf.com
+Paris Peace Forum|parispeaceforum.org
+World Economic Forum|weforum.org
+The World Economic Forum|weforum.org
+WEF|weforum.org
+Munich Security Conference|securityconference.org
+Global Partnership for Education|globalpartnership.org
+International Development Association|ida.worldbank.org
+# --- UK and European think tanks
+Institute for Public Policy Research|ippr.org
+Institute for Public Policy Research (IPPR)|ippr.org
+Centre for European Reform|cer.eu
+CER|cer.eu
+European Council on Foreign Relations|ecfr.eu
+ECFR|ecfr.eu
+International Institute for Strategic Studies|iiss.org
+IISS|iiss.org
+Royal Institute of International Affairs|chathamhouse.org
+Chatham House (Royal Institute of International Affairs)|chathamhouse.org
+Bruegel|bruegel.org
+Centre for European Policy Studies|ceps.eu
+CEPS|ceps.eu
+European Policy Centre|epc.eu
+Jacques Delors Institute|institutdelors.eu
+German Marshall Fund|gmfus.org
+German Marshall Fund of the United States|gmfus.org
+Stiftung Neue Verantwortung|interface-eu.org
+interface|interface-eu.org
+SWP German Institute for International and Security Affairs|swp-berlin.org
+Kiel Institute for the World Economy|ifw-kiel.de
+ifo Institute|ifo.de
+DIW Berlin|diw.de
+Institut Montaigne|institutmontaigne.org
+IFRI|ifri.org
+French Institute of International Relations|ifri.org
+Clingendael|clingendael.org
+Stockholm International Peace Research Institute|sipri.org
+SIPRI|sipri.org
+Overseas Development Institute|odi.org
+ODI|odi.org
+ODI Global|odi.org
+Institute of Development Studies|ids.ac.uk
+IDS|ids.ac.uk
+Oxford Policy Management|opml.co.uk
+Overseas Development Institute (ODI)|odi.org
+National Institute of Economic and Social Research|niesr.ac.uk
+NIESR|niesr.ac.uk
+Joseph Rowntree Foundation|jrf.org.uk
+JRF|jrf.org.uk
+New Economics Foundation|neweconomics.org
+Fabian Society|fabians.org.uk
+Bright Blue|brightblue.org.uk
+Adam Smith Institute|adamsmith.org
+Institute of Economic Affairs|iea.org.uk
+IEA (Institute of Economic Affairs)|iea.org.uk
+Legatum Institute|li.com
+Reform|reform.uk
+Reform (think tank)|reform.uk
+Centre for Social Justice|centreforsocialjustice.org.uk
+Localis|localis.org.uk
+Bennett Institute|bennettinstitute.cam.ac.uk
+Policy Connect|policyconnect.org.uk
+Learning and Work Institute|learningandwork.org.uk
+Education Policy Institute|epi.org.uk
+Nuffield Trust (UK)|nuffieldtrust.org.uk
+Institute for Employment Studies|employment-studies.co.uk
+Work Foundation|lancaster.ac.uk
+UK in a Changing Europe|ukandeu.ac.uk
+British Academy|thebritishacademy.ac.uk
+Royal Academy of Engineering|raeng.org.uk
+Academy of Medical Sciences|acmedsci.ac.uk
+Royal Society of Arts|thersa.org
+RSA|thersa.org
+Young Foundation|youngfoundation.org
+Common Wealth|common-wealth.org
+Labour Together|labourtogether.uk
+Persuasion UK|persuasion.community
+More in Common|moreincommon.org.uk
+Britain Remade|britainremade.co.uk
+Create Streets|createstreets.com
+UK Day One|ukdayone.org
+Centre for Net Zero|centrefornetzero.org
+Green Alliance|green-alliance.org.uk
+E3G|e3g.org
+Ember|ember-energy.org
+Carbon Brief|carbonbrief.org
+Grantham Research Institute|lse.ac.uk
+Energy and Climate Intelligence Unit|eciu.net
+Full Fact|fullfact.org
+Institute for Strategic Dialogue|isdglobal.org
+ISD|isdglobal.org
+Henry Jackson Society|henryjacksonsociety.org
+Council on Geostrategy|geostrategy.org.uk
+British Foreign Policy Group|bfpg.co.uk
+Foreign Policy Centre|fpc.org.uk
+Global Counsel|global-counsel.com
+Centre for Long Term Resilience|longtermresilience.org
+CLTR|longtermresilience.org
+Centre for Science and Policy|csap.cam.ac.uk
+Wilton Park|wiltonpark.org.uk
+Ditchley Foundation|ditchley.com
+The Ditchley Foundation|ditchley.com
+Royal Society of Edinburgh|rse.org.uk
+David Hume Institute|davidhumeinstitute.org
+Fraser of Allander Institute|strath.ac.uk
+Wales Centre for Public Policy|wcpp.org.uk
+Institute for Fiscal Studies (IFS)|ifs.org.uk
+Office for Equality and Opportunity|gov.uk
+Centre for Progressive Policy|progressive-policy.net
+Institute for the Future of Work|ifow.org
+Open Data Institute|theodi.org
+ODI (Open Data Institute)|theodi.org
+Connected by Data|connectedbydata.org
+Careful Industries|careful.industries
+Minderoo Centre for Technology and Democracy|mctd.ac.uk
+Leverhulme Centre for the Future of Intelligence|lcfi.ac.uk
+Centre for the Study of Existential Risk|cser.ac.uk
+CSER|cser.ac.uk
+Oxford Internet Institute|oii.ox.ac.uk
+Oxford Martin School|oxfordmartin.ox.ac.uk
+Global Priorities Institute|globalprioritiesinstitute.org
+Institute for Ethics in AI|oxford-aiethics.ox.ac.uk
+Ada Lovelace Institute (ALI)|adalovelaceinstitute.org
+Demos Helsinki|demoshelsinki.fi
+Bertelsmann Stiftung|bertelsmann-stiftung.de
+Robert Bosch Stiftung|bosch-stiftung.de
+Konrad Adenauer Foundation|kas.de
+Friedrich Ebert Foundation|fes.de
+Heinrich Böll Foundation|boell.de
+Open Society European Policy Institute|opensocietyfoundations.org
+Centre for Information Resilience|info-res.org
+Royal Institution|rigb.org
+Nesta (UK)|nesta.org.uk
+Founders Forum|ff.co
+Tech Nation|technation.io
+techUK|techuk.org
+TheCityUK|thecityuk.com
+Confederation of British Industry|cbi.org.uk
+CBI|cbi.org.uk
+Federation of Small Businesses|fsb.org.uk
+British Chambers of Commerce|britishchambers.org.uk
+Trades Union Congress|tuc.org.uk
+TUC|tuc.org.uk
+Resolution Foundation (UK)|resolutionfoundation.org
+Centre for Cities (UK)|centreforcities.org
+Northern Powerhouse Partnership|northernpowerhousepartnership.co.uk
+IPPR North|ippr.org
+Onward (UK)|ukonward.com
+Policy Exchange (UK)|policyexchange.org.uk
+# --- US and global think tanks and policy research
+Brookings|brookings.edu
+The Brookings Institution|brookings.edu
+American Enterprise Institute|aei.org
+AEI|aei.org
+Heritage Foundation|heritage.org
+Cato Institute|cato.org
+Center for American Progress|americanprogress.org
+Urban Institute|urban.org
+Peterson Institute for International Economics|piie.com
+PIIE|piie.com
+Council on Foreign Relations|cfr.org
+CFR|cfr.org
+Atlantic Council|atlanticcouncil.org
+Center for Strategic and International Studies|csis.org
+Center for Strategic and International Studies (CSIS)|csis.org
+Center for a New American Security|cnas.org
+Center for a New American Security (CNAS)|cnas.org
+CNAS|cnas.org
+Hudson Institute|hudson.org
+Stimson Center|stimson.org
+Wilson Center|wilsoncenter.org
+Woodrow Wilson International Center for Scholars|wilsoncenter.org
+New America|newamerica.org
+Niskanen Center|niskanencenter.org
+Bipartisan Policy Center|bipartisanpolicy.org
+Third Way|thirdway.org
+Progressive Policy Institute|progressivepolicy.org
+Roosevelt Institute|rooseveltinstitute.org
+Economic Policy Institute|epi.org
+Center on Budget and Policy Priorities|cbpp.org
+Tax Policy Center|taxpolicycenter.org
+Tax Foundation|taxfoundation.org
+Manhattan Institute|manhattan.institute
+Mercatus|mercatus.org
+Hoover Institution|hoover.org
+Belfer Center|belfercenter.org
+Belfer Center for Science and International Affairs|belfercenter.org
+Harvard Kennedy School, Belfer Center for Science and International Affairs|belfercenter.org
+Carnegie Endowment|carnegieendowment.org
+Carnegie Endowment for International Peace (CEIP)|carnegieendowment.org
+Center for Global Development|cgdev.org
+CGD|cgdev.org
+Institute for Progress (IFP)|ifp.org
+Federation of American Scientists|fas.org
+FAS|fas.org
+Center for Democracy and Technology|cdt.org
+Center for Democracy & Technology|cdt.org
+Electronic Frontier Foundation|eff.org
+EFF|eff.org
+Electronic Privacy Information Center|epic.org
+AI Now Institute|ainowinstitute.org
+Data & Society|datasociety.net
+Brennan Center for Justice|brennancenter.org
+Pew Research Center|pewresearch.org
+Pew Charitable Trusts|pewtrusts.org
+The Pew Charitable Trusts|pewtrusts.org
+National Bureau of Economic Research|nber.org
+NBER|nber.org
+Russell Sage Foundation|russellsage.org
+MDRC|mdrc.org
+Mathematica|mathematica.org
+RTI International|rti.org
+Abt Global|abtglobal.com
+Abt Associates|abtglobal.com
+American Institutes for Research|air.org
+Aspen Institute|aspeninstitute.org
+The Aspen Institute|aspeninstitute.org
+Milken Institute|milkeninstitute.org
+Eurasia Group|eurasiagroup.net
+Rhodium Group|rhg.com
+Brookings Metro|brookings.edu
+Lincoln Institute of Land Policy|lincolninst.edu
+Institute for Women's Policy Research|iwpr.org
+Committee for a Responsible Federal Budget|crfb.org
+American Action Forum|americanactionforum.org
+R Street Institute|rstreet.org
+Foundation for American Innovation|thefai.org
+FAI|thefai.org
+American Compass|americancompass.org
+Information Technology and Innovation Foundation|itif.org
+ITIF|itif.org
+Center for Data Innovation|datainnovation.org
+Abundance Institute|abundance.institute
+Breakthrough Institute|thebreakthrough.org
+Clean Air Task Force|catf.us
+Rocky Mountain Institute|rmi.org
+RMI|rmi.org
+World Resources Institute|wri.org
+WRI|wri.org
+Resources for the Future|rff.org
+Climate Policy Initiative|climatepolicyinitiative.org
+Energy Innovation|energyinnovation.org
+Center for Clean Air Policy|ccap.org
+Environmental Defense Fund|edf.org
+Environmental Defense Fund (EDF)|edf.org
+Natural Resources Defense Council|nrdc.org
+NRDC|nrdc.org
+The Nature Conservancy|nature.org
+The Nature Conservancy (TNC)|nature.org
+WWF|worldwildlife.org
+Sierra Club|sierraclub.org
+Union of Concerned Scientists|ucsusa.org
+Nuclear Threat Initiative|nti.org
+NTI|nti.org
+Arms Control Association|armscontrol.org
+James Martin Center for Nonproliferation Studies|nonproliferation.org
+International Crisis Group|crisisgroup.org
+Crisis Group|crisisgroup.org
+International Peace Institute|ipinst.org
+International Peace Institute (IPI)|ipinst.org
+United States Institute of Peace|usip.org
+USIP|usip.org
+Freedom House|freedomhouse.org
+National Endowment for Democracy|ned.org
+NED|ned.org
+National Democratic Institute|ndi.org
+NDI|ndi.org
+International Republican Institute|iri.org
+IRI|iri.org
+Carter Center|cartercenter.org
+The Carter Center|cartercenter.org
+Human Rights Watch|hrw.org
+Amnesty International|amnesty.org
+Transparency International|transparency.org
+Global Witness|globalwitness.org
+Open Government Partnership|opengovpartnership.org
+Results for Development|r4d.org
+J-PAL|povertyactionlab.org
+Abdul Latif Jameel Poverty Action Lab (J-PAL)|povertyactionlab.org
+Jameel Poverty Action Lab (J-PAL)|povertyactionlab.org
+Innovations for Poverty Action|poverty-action.org
+IPA|poverty-action.org
+IDinsight|idinsight.org
+GiveWell|givewell.org
+GiveDirectly|givedirectly.org
+Evidence Action|evidenceaction.org
+Center for Effective Global Action|cega.berkeley.edu
+Growth Lab|growthlab.hks.harvard.edu
+Harvard Growth Lab|growthlab.hks.harvard.edu
+International Growth Centre|theigc.org
+IGC|theigc.org
+Tony Blair Institute (TBI)|institute.global
+TBI|institute.global
+Observer Research Foundation|orfonline.org
+ORF|orfonline.org
+Lowy Institute|lowyinstitute.org
+Australian Strategic Policy Institute|aspi.org.au
+ASPI|aspi.org.au
+Grattan Institute|grattan.edu.au
+CIGI|cigionline.org
+Centre for International Governance Innovation|cigionline.org
+C.D. Howe Institute|cdhowe.org
+Brookings India|brookings.edu
+Carnegie India|carnegieindia.org
+Takshashila Institution|takshashila.org.in
+Centre for Policy Research|cprindia.org
+Asia Society|asiasociety.org
+Asia Society Policy Institute|asiasociety.org
+The Asia Group|theasiagroup.com
+MERICS|merics.org
+Mercator Institute for China Studies|merics.org
+Institute for Security and Development Policy|isdp.eu
+Royal Society (UK)|royalsociety.org
+War on the Rocks|warontherocks.com
+Lawfare|lawfaremedia.org
+Just Security|justsecurity.org
+Brookings Center on Regulation and Markets|brookings.edu
+Searchlight Institute|searchlightinstitute.org
+Employ America|employamerica.org
+Institute for Humane Studies|theihs.org
+Bridgespan Group|bridgespan.org
+The Bridgespan Group|bridgespan.org
+Social Finance|socialfinance.org
+Social Finance, Inc.|socialfinance.org
+Results for America|results4america.org
+Code for America|codeforamerica.org
+Partnership for Public Service|ourpublicservice.org
+Govern For America|governforamerica.org
+Lead for America|leadforamerica.org
+Education Pioneers|educationpioneers.org
+Teach For America|teachforamerica.org
+Teach First|teachfirst.org.uk
+Teach For All|teachforall.org
+Endeavor|endeavor.org
+Echoing Green|echoinggreen.org
+Ashoka|ashoka.org
+Skoll Foundation|skoll.org
+Global Impact Investing Network|thegiin.org
+The Global Impact Investing Network (GIIN)|thegiin.org
+Acumen|acumen.org
+CrossBoundary Group|crossboundary.com
+Dalberg|dalberg.com
+Dalberg Advisors|dalberg.com
+FSG|fsg.org
+Camber Collective|cambercollective.com
+Redstone Strategy Group|redstonestrategy.com
+Clinton Foundation|clintonfoundation.org
+Clinton Health Access Initiative|clintonhealthaccess.org
+Clinton Health Access Initiative (CHAI)|clintonhealthaccess.org
+CHAI|clintonhealthaccess.org
+PATH|path.org
+Last Mile Health|lastmilehealth.org
+Partners In Health|pih.org
+Médecins Sans Frontières|msf.org
+MSF|msf.org
+International Rescue Committee|rescue.org
+International Rescue Committee (IRC)|rescue.org
+IRC|rescue.org
+Save the Children|savethechildren.org
+Oxfam|oxfam.org
+CARE|care.org
+Mercy Corps|mercycorps.org
+BRAC|brac.net
+Plan International|plan-international.org
+World Vision|wvi.org
+American Red Cross|redcross.org
+British Red Cross|redcross.org.uk
+Norwegian Refugee Council|nrc.no
+Danish Refugee Council|drc.ngo
+ONE Campaign|one.org
+Global Citizen|globalcitizen.org
+Center for Justice Innovation|innovatingjustice.org
+Vera Institute of Justice|vera.org
+ACLU|aclu.org
+American Civil Liberties Union|aclu.org
+NAACP|naacp.org
+Campaign Legal Center|campaignlegal.org
+Public Citizen|citizen.org
+Common Cause|commoncause.org
+AFL-CIO|aflcio.org
+American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)|aflcio.org
+SEIU|seiu.org
+National Education Association|nea.org
+National Low Income Housing Coalition|nlihc.org
+Enterprise Community Partners|enterprisecommunity.org
+LISC|lisc.org
+Opportunity Insights|opportunityinsights.org
+Chicago Council on Global Affairs|globalaffairs.org
+Foreign Policy Research Institute|fpri.org
+Quincy Institute|quincyinst.org
+Vandenberg Coalition|vandenbergcoalition.org
+The Vandenberg Coalition|vandenbergcoalition.org
+Special Competitive Studies Project|scsp.ai
+SCSP|scsp.ai
+Krach Institute for Tech Diplomacy|krachinstitute.org
+Silverado Policy Accelerator|silverado.org
+Center for Security Policy|centerforsecuritypolicy.org
+Polaris National Security|polarisnationalsecurity.org
+MITRE|mitre.org
+MITRE Corporation|mitre.org
+CNA|cna.org
+Institute for Defense Analyses|ida.org
+Aerospace Corporation|aerospace.org
+Johns Hopkins Applied Physics Laboratory|jhuapl.edu
+Johns Hopkins Center for Health Security|centerforhealthsecurity.org
+Nuclear Threat Initiative (NTI)|nti.org
+Council on Strategic Risks|councilonstrategicrisks.org
+Brookings Institution (US)|brookings.edu
+# --- AI labs, AI safety and AI governance
+Anthropic PBC|anthropic.com
+OpenAI (US)|openai.com
+Google|google.com
+Alphabet|abc.xyz
+Google Research|research.google
+Microsoft Research|microsoft.com
+Meta AI|meta.com
+Meta|meta.com
+xAI|x.ai
+Mistral AI|mistral.ai
+Cohere|cohere.com
+Hugging Face|huggingface.co
+Scale AI|scale.com
+SCALE AI|scale.com
+Palantir|palantir.com
+Palantir Technologies|palantir.com
+Nvidia|nvidia.com
+NVIDIA|nvidia.com
+Amazon|amazon.com
+Amazon Web Services|aws.amazon.com
+Apple|apple.com
+IBM|ibm.com
+Intel|intel.com
+AMD|amd.com
+TSMC|tsmc.com
+ASML|asml.com
+Arm|arm.com
+Graphcore|graphcore.ai
+Wayve|wayve.ai
+Synthesia|synthesia.io
+Stability AI|stability.ai
+Inflection AI|inflection.ai
+Character.AI|character.ai
+Perplexity|perplexity.ai
+Sakana AI|sakana.ai
+Aleph Alpha|aleph-alpha.com
+Safe Superintelligence|ssi.inc
+Thinking Machines Lab|thinkingmachines.ai
+Center for AI Safety|safe.ai
+Center for AI Safety (CAIS)|safe.ai
+CAIS|safe.ai
+Center for AI Policy|centeraipolicy.org
+Center for Human-Compatible AI|humancompatible.ai
+CHAI (Berkeley)|humancompatible.ai
+Machine Intelligence Research Institute|intelligence.org
+Machine Intelligence Research Institute (MIRI)|intelligence.org
+MIRI|intelligence.org
+Redwood Research|redwoodresearch.org
+FAR AI|far.ai
+FAR.AI|far.ai
+Apollo Research (UK)|apolloresearch.ai
+METR (Model Evaluation and Threat Research)|metr.org
+Epoch|epoch.ai
+Timaeus|timaeus.co
+Goodfire|goodfire.ai
+Conjecture|conjecture.dev
+EleutherAI|eleuther.ai
+Eleuther AI|eleuther.ai
+OpenMined|openmined.org
+Rethink Priorities|rethinkpriorities.org
+Institute for AI Policy and Strategy (IAPS)|iaps.ai
+Centre for the Governance of AI|governance.ai
+Center for Security and Emerging Technology (CSET)|cset.georgetown.edu
+Center for Responsible Innovation|responsibleinnovation.org
+Americans for Responsible Innovation (ARI)|ari.us
+Future of Life Institute (FLI)|futureoflife.org
+FLI|futureoflife.org
+Future of Humanity Institute|fhi.ox.ac.uk
+Partnership on AI|partnershiponai.org
+AI Policy Institute|theaipi.org
+Encode|encodeai.org
+Encode Justice|encodeai.org
+The Future Society|thefuturesociety.org
+Centre for AI Security and Access|caisa.ai
+AI Safety Institute|aisi.gov.uk
+UK AISI|aisi.gov.uk
+Collective Intelligence Project|cip.org
+Safe AI Forum|saif.org
+Simon Institute for Longterm Governance|simoninstitute.ch
+CeSIA|securite-ia.fr
+Pour Demain|pourdemain.ngo
+AI Futures Project|ai-futures.org
+Forecasting Research Institute|forecastingresearch.org
+Metaculus|metaculus.com
+Good Judgment|goodjudgment.com
+Arb Research|arbresearch.com
+Constellation|constellation.org
+MATS|matsprogram.org
+SERI MATS|matsprogram.org
+ML Alignment & Theory Scholars|matsprogram.org
+BlueDot Impact|bluedot.org
+ERA Cambridge|erafellowship.org
+Pivotal Research|pivotal-research.org
+Cooperative AI Foundation|cooperativeai.com
+AI Objectives Institute|ai.objectives.institute
+Frontier AI Safety Commitments|gov.uk
+SaferAI|safer-ai.org
+Convergence Analysis|convergenceanalysis.org
+Institute for Law & AI|law-ai.org
+LawAI|law-ai.org
+Legal Priorities Project|legalpriorities.org
+ChinaTalk|chinatalk.media
+Concordia AI|concordia-ai.com
+Center for Long-Term Cybersecurity|cltc.berkeley.edu
+Stanford HAI|hai.stanford.edu
+Stanford Institute for Human-Centered Artificial Intelligence|hai.stanford.edu
+Stanford Internet Observatory|stanford.edu
+MIT CSAIL|csail.mit.edu
+MIT Computer Science and Artificial Intelligence Laboratory|csail.mit.edu
+Mila|mila.quebec
+Montreal Institute for Learning Algorithms|mila.quebec
+Vector Institute|vectorinstitute.ai
+Allen Institute for AI|allenai.org
+AI2|allenai.org
+Berkman Klein Center|cyber.harvard.edu
+Shorenstein Center|shorensteincenter.org
+Harvard Kennedy School, Shorenstein Center|shorensteincenter.org
+AI Underwriting Company|aiuc.com
+Artificial Intelligence Underwriting Company|aiuc.com
+Transluce|transluce.org
+Haize Labs|haizelabs.com
+Gray Swan AI|grayswan.ai
+Lionheart Ventures|lionheart.vc
+Juniper Ventures|juniperventures.xyz
+Halcyon Futures|halcyonfutures.org
+Macroscopic Ventures|macroscopic.org
+Astralis Foundation|astralisfoundation.org
+SL5 Task Force|sl5.org
+ControlAI|controlai.com
+PauseAI|pauseai.info
+Seldon Lab|seldonlab.com
+Coefficient Giving (formerly Open Philanthropy)|coefficientgiving.org
+Open Philanthropy (now Coefficient Giving)|coefficientgiving.org
+# --- Foundations and philanthropy
+Good Ventures|goodventures.org
+Survival and Flourishing Fund|survivalandflourishing.fund
+Long-Term Future Fund|funds.effectivealtruism.org
+EA Funds|funds.effectivealtruism.org
+Effective Altruism Funds|funds.effectivealtruism.org
+Centre for Effective Altruism|centreforeffectivealtruism.org
+80,000 Hours|80000hours.org
+Giving What We Can|givingwhatwecan.org
+Founders Pledge|founderspledge.com
+Manifund|manifund.org
+Schmidt Sciences|schmidtsciences.org
+Schmidt Futures|schmidtfutures.org
+Rhodes Trust|rhodeshouse.ox.ac.uk
+Marshall Scholarships|marshallscholarship.org
+Fulbright Commission|fulbright.org.uk
+Fulbright Program|fulbrightprogram.org
+Knight Foundation|knightfoundation.org
+John S. and James L. Knight Foundation|knightfoundation.org
+MacArthur Foundation|macfound.org
+John D. and Catherine T. MacArthur Foundation|macfound.org
+Ford Foundation|fordfoundation.org
+Rockefeller Foundation|rockefellerfoundation.org
+The Rockefeller Foundation|rockefellerfoundation.org
+Rockefeller Brothers Fund|rbf.org
+Hewlett Foundation|hewlett.org
+William and Flora Hewlett Foundation|hewlett.org
+Packard Foundation|packard.org
+David and Lucile Packard Foundation|packard.org
+Sloan Foundation|sloan.org
+Alfred P. Sloan Foundation|sloan.org
+Bill & Melinda Gates Foundation|gatesfoundation.org
+Bill and Melinda Gates Foundation|gatesfoundation.org
+Open Society Foundations|opensocietyfoundations.org
+Bloomberg Philanthropies|bloomberg.org
+Carnegie Corporation of New York|carnegie.org
+Andrew W. Mellon Foundation|mellon.org
+Mellon Foundation|mellon.org
+Kresge Foundation|kresge.org
+The Kresge Foundation|kresge.org
+Robert Wood Johnson Foundation|rwjf.org
+Annie E. Casey Foundation|aecf.org
+W.K. Kellogg Foundation|wkkf.org
+Walton Family Foundation|waltonfamilyfoundation.org
+Arnold Ventures|arnoldventures.org
+Chan Zuckerberg Initiative|chanzuckerberg.com
+Emerson Collective|emersoncollective.com
+Omidyar Network|omidyar.com
+Luminate|luminategroup.com
+Mozilla Foundation|foundation.mozilla.org
+Mozilla|mozilla.org
+Wikimedia Foundation|wikimediafoundation.org
+Patrick J. McGovern Foundation|mcgovern.org
+Siegel Family Endowment|siegelendowment.org
+Simons Foundation|simonsfoundation.org
+Templeton Foundation|templeton.org
+John Templeton Foundation|templeton.org
+Charles Koch Foundation|charleskochfoundation.org
+Stand Together|standtogether.org
+Smith Richardson Foundation|srf.org
+Stanton Foundation|thestantonfoundation.org
+Carnegie Endowment for International Peace (US)|carnegieendowment.org
+Ploughshares Fund|ploughshares.org
+Longview|longview.org
+Children's Investment Fund Foundation|ciff.org
+CIFF|ciff.org
+Wellcome Trust|wellcome.org
+Gatsby Charitable Foundation|gatsby.org.uk
+Esmée Fairbairn Foundation|esmeefairbairn.org.uk
+Paul Hamlyn Foundation|phf.org.uk
+Leverhulme Trust|leverhulme.ac.uk
+Joseph Rowntree Charitable Trust|jrct.org.uk
+Barrow Cadbury Trust|barrowcadbury.org.uk
+Lloyd's Register Foundation|lrfoundation.org.uk
+Garfield Weston Foundation|garfieldweston.org
+National Lottery Community Fund|tnlcommunityfund.org.uk
+Big Lottery Fund|tnlcommunityfund.org.uk
+Atlantic Philanthropies|atlanticphilanthropies.org
+Mastercard Foundation|mastercardfdn.org
+Aga Khan Development Network|akdn.org
+Azim Premji Foundation|azimpremjifoundation.org
+Tata Trusts|tatatrusts.org
+Novo Nordisk Foundation|novonordiskfonden.dk
+Volkswagen Foundation|volkswagenstiftung.de
+Stiftung Mercator|stiftung-mercator.de
+Mercator Foundation|stiftung-mercator.de
+Luminate Group|luminategroup.com
+Sequoia Climate Foundation|sequoiaclimate.org
+Growald Climate Fund|growaldclimatefund.org
+ClimateWorks Foundation|climateworks.org
+Bezos Earth Fund|bezosearthfund.org
+Ballmer Group|ballmergroup.org
+Laura and John Arnold Foundation|arnoldventures.org
+Mercatus Center at George Mason University|mercatus.org
+Institute for Humane Studies at George Mason University|theihs.org
+Atlas Network|atlasnetwork.org
+Philanthropy Together|philanthropytogether.org
+Tikvah Fund|tikvahfund.org
+The Tikvah Fund|tikvahfund.org
+United States-Japan Foundation|us-jf.org
+United States - Japan Foundation|us-jf.org
+Japan Foundation|jpf.go.jp
+Wagner Foundation|wagner.foundation
+Treehouse Family Foundation|treehousefamilyfoundation.org
+America India Foundation|aif.org
+America India Foundation (AIF)|aif.org
+Elizabeth Glaser Pediatric AIDS Foundation|pedaids.org
+Albert B. Sabin Vaccine Institute|sabin.org
+Sabin Vaccine Institute|sabin.org
+# --- Universities, policy schools and research centres
+Harvard Kennedy School|hks.harvard.edu
+Harvard Kennedy School of Government|hks.harvard.edu
+HKS|hks.harvard.edu
+Harvard Business School|hbs.edu
+Harvard Law School|hls.harvard.edu
+Harvard T.H. Chan School of Public Health|hsph.harvard.edu
+Harvard College|college.harvard.edu
+Harvard Kennedy School, Ash Center for Democratic Governance and Innovation|ash.harvard.edu
+Ash Center|ash.harvard.edu
+Harvard Kennedy School, Government Performance Lab|govlab.hks.harvard.edu
+Government Performance Lab|govlab.hks.harvard.edu
+Bloomberg Center for Cities at Harvard University|cities.harvard.edu
+Harvard University, Bloomberg Center for Cities at Harvard University|cities.harvard.edu
+Harvard University, The Salata Institute for Climate and Sustainability|salatainstitute.harvard.edu
+Salata Institute|salatainstitute.harvard.edu
+Princeton University|princeton.edu
+Princeton School of Public and International Affairs|spia.princeton.edu
+Princeton SPIA|spia.princeton.edu
+Yale Jackson School of Global Affairs|jackson.yale.edu
+Jackson School of Global Affairs|jackson.yale.edu
+Yale|yale.edu
+Yale Law School|law.yale.edu
+Yale School of Management|som.yale.edu
+Columbia University|columbia.edu
+Columbia SIPA|sipa.columbia.edu
+School of International and Public Affairs, Columbia University|sipa.columbia.edu
+Columbia Business School|gsb.columbia.edu
+Columbia Law School|law.columbia.edu
+University of Pennsylvania|upenn.edu
+Penn|upenn.edu
+Wharton School|wharton.upenn.edu
+Penn Medicine|pennmedicine.org
+Penn Medicine, University of Pennsylvania Health System|pennmedicine.org
+Brown University|brown.edu
+Watson Institute for International and Public Affairs|watson.brown.edu
+Cornell University|cornell.edu
+Dartmouth College|dartmouth.edu
+Stanford University|stanford.edu
+Stanford Graduate School of Business|gsb.stanford.edu
+Freeman Spogli Institute|fsi.stanford.edu
+Massachusetts Institute of Technology|mit.edu
+Massachusetts Institute of Technology (MIT)|mit.edu
+MIT|mit.edu
+MIT Sloan School of Management|mitsloan.mit.edu
+University of Chicago|uchicago.edu
+Harris School of Public Policy|harris.uchicago.edu
+University of Chicago Harris School of Public Policy|harris.uchicago.edu
+Georgetown University|georgetown.edu
+Johns Hopkins University|jhu.edu
+Johns Hopkins SAIS|sais.jhu.edu
+SAIS|sais.jhu.edu
+Johns Hopkins Hospital|hopkinsmedicine.org
+Duke University|duke.edu
+Sanford School of Public Policy|sanford.duke.edu
+University of Michigan|umich.edu
+Ford School of Public Policy|fordschool.umich.edu
+University of California, Berkeley|berkeley.edu
+UC Berkeley|berkeley.edu
+Goldman School of Public Policy|gspp.berkeley.edu
+Berkeley Food Institute|food.berkeley.edu
+University of California|universityofcalifornia.edu
+UCLA|ucla.edu
+New York University|nyu.edu
+New York University (NYU)|nyu.edu
+NYU Wagner|wagner.nyu.edu
+Tufts University|tufts.edu
+Fletcher School|fletcher.tufts.edu
+Carnegie Mellon University|cmu.edu
+Heinz College|heinz.cmu.edu
+George Washington University|gwu.edu
+American University|american.edu
+University of Virginia|virginia.edu
+Batten School|batten.virginia.edu
+University of Texas at Austin|utexas.edu
+LBJ School of Public Affairs|lbj.utexas.edu
+Syracuse University|syracuse.edu
+Maxwell School|maxwell.syr.edu
+Brandeis University|brandeis.edu
+Boston University|bu.edu
+Northwestern University|northwestern.edu
+University of Washington|washington.edu
+University of Miami|miami.edu
+William & Mary|wm.edu
+William and Mary College|wm.edu
+State University of New York|suny.edu
+State University of New York (SUNY), Oneonta|suny.edu
+Rutgers University|rutgers.edu
+Arizona State University|asu.edu
+Georgia Institute of Technology|gatech.edu
+Caltech|caltech.edu
+University of Toronto|utoronto.ca
+Munk School of Global Affairs|munkschool.utoronto.ca
+McGill University|mcgill.ca
+University of British Columbia|ubc.ca
+University of Cambridge (Cambridge)|cam.ac.uk
+Cambridge Judge Business School|jbs.cam.ac.uk
+Oxford University|ox.ac.uk
+Saïd Business School|sbs.ox.ac.uk
+Nuffield College, Oxford|nuffield.ox.ac.uk
+London School of Economics and Political Science|lse.ac.uk
+LSE (London School of Economics)|lse.ac.uk
+Imperial College London|imperial.ac.uk
+UCL Institute for Innovation and Public Purpose|ucl.ac.uk
+UCL Policy Lab|ucl.ac.uk
+King's College London (KCL)|kcl.ac.uk
+King's Policy Institute|kcl.ac.uk
+University of Edinburgh|ed.ac.uk
+University of Glasgow|gla.ac.uk
+University of Manchester|manchester.ac.uk
+University of Warwick|warwick.ac.uk
+University of Bristol|bristol.ac.uk
+University of Birmingham|birmingham.ac.uk
+University of Sheffield|sheffield.ac.uk
+University of York|york.ac.uk
+University of Nottingham|nottingham.ac.uk
+Durham University|durham.ac.uk
+University of Exeter|exeter.ac.uk
+University of Southampton|southampton.ac.uk
+Queen Mary University of London|qmul.ac.uk
+SOAS University of London|soas.ac.uk
+City St George's, University of London|citystgeorges.ac.uk
+University of Sussex|sussex.ac.uk
+Lancaster University|lancaster.ac.uk
+University of Hull|hull.ac.uk
+University of Lincoln|lincoln.ac.uk
+Newcastle University|ncl.ac.uk
+Cardiff University|cardiff.ac.uk
+Queen's University Belfast|qub.ac.uk
+Trinity College Dublin|tcd.ie
+University College Dublin|ucd.ie
+Sciences Po|sciencespo.fr
+HEC Paris|hec.edu
+INSEAD|insead.edu
+Hertie School|hertie-school.org
+ETH Zurich|ethz.ch
+EPFL|epfl.ch
+Graduate Institute Geneva|graduateinstitute.ch
+Bocconi University|unibocconi.eu
+Central European University|ceu.edu
+European University Institute|eui.eu
+College of Europe|coleurope.eu
+Paris School of Economics|parisschoolofeconomics.eu
+Toulouse School of Economics|tse-fr.eu
+University of Amsterdam|uva.nl
+Leiden University|universiteitleiden.nl
+KU Leuven|kuleuven.be
+University of Copenhagen|ku.dk
+Stockholm School of Economics|hhs.se
+Hebrew University of Jerusalem|huji.ac.il
+Tel Aviv University|tau.ac.il
+Weizmann Institute|weizmann.ac.il
+National University of Singapore|nus.edu.sg
+Lee Kuan Yew School of Public Policy|lkyspp.nus.edu.sg
+Nanyang Technological University|ntu.edu.sg
+University of Tokyo|u-tokyo.ac.jp
+Tsinghua University|tsinghua.edu.cn
+Peking University|pku.edu.cn
+University of Hong Kong|hku.hk
+Australian National University|anu.edu.au
+University of Melbourne|unimelb.edu.au
+University of Sydney|sydney.edu.au
+Indian School of Business|isb.edu
+Ashoka University|ashoka.edu.in
+ADA University|ada.edu.az
+King Abdulaziz University|kau.edu.sa
+King Abdullah Petroleum Studies and Research Center|kapsarc.org
+King Abdullah Petroleum Studies and Research Center (KAPSARC)|kapsarc.org
+Lincoln Institute|lincolninst.edu
+Santa Fe Institute|santafe.edu
+Institute for Advanced Study|ias.edu
+Simons Institute|simons.berkeley.edu
+Broad Institute|broadinstitute.org
+Francis Crick Institute|crick.ac.uk
+Wellcome Sanger Institute|sanger.ac.uk
+FutureHouse|futurehouse.org
+Arc Institute|arcinstitute.org
+Convergent Research|convergentresearch.org
+Astera Institute|astera.org
+Renaissance Philanthropy|renaissancephilanthropy.org
+Speculative Technologies|spec.tech
+# --- Consultancies, finance, law and companies
+McKinsey|mckinsey.com
+McKinsey & Co|mckinsey.com
+BCG|bcg.com
+Boston Consulting Group (BCG)|bcg.com
+Bain & Company|bain.com
+Bain|bain.com
+Deloitte|deloitte.com
+Monitor Deloitte|deloitte.com
+PwC|pwc.com
+PricewaterhouseCoopers|pwc.com
+EY|ey.com
+Ernst & Young|ey.com
+Ernst & Young (EY)|ey.com
+KPMG|kpmg.com
+Accenture|accenture.com
+Oliver Wyman|oliverwyman.com
+Kearney|kearney.com
+L.E.K. Consulting|lek.com
+Roland Berger|rolandberger.com
+Booz Allen Hamilton|boozallen.com
+Guidehouse|guidehouse.com
+Guidehouse LLP|guidehouse.com
+Alvarez & Marsal|alvarezandmarsal.com
+FTI Consulting|fticonsulting.com
+Analysis Group|analysisgroup.com
+Cornerstone Research|cornerstone.com
+Compass Lexecon|compasslexecon.com
+Frontier Economics|frontier-economics.com
+Oxera|oxera.com
+London Economics|londoneconomics.co.uk
+London Economics International|londoneconomics.com
+Economic Insight|economic-insight.com
+Public First|publicfirst.co.uk
+Portland Communications|portland-communications.com
+Brunswick Group|brunswickgroup.com
+Teneo|teneo.com
+FGS Global|fgsglobal.com
+Flint Global|flint-global.com
+Hanbury Strategy|hanburystrategy.com
+Macro Advisory Partners|macroadvisorypartners.com
+DGA Group|dgagroup.com
+SKDK|skdknick.com
+Kroll|kroll.com
+Control Risks|controlrisks.com
+West Wing Writers|westwingwriters.com
+Global Partners Digital|gp-digital.org
+Faculty AI|faculty.ai
+ASI Data Science|faculty.ai
+Goldman Sachs|goldmansachs.com
+JPMorgan Chase|jpmorganchase.com
+JPMorganChase|jpmorganchase.com
+J.P. Morgan|jpmorgan.com
+Morgan Stanley|morganstanley.com
+Bank of America|bankofamerica.com
+Citi|citi.com
+Citigroup|citigroup.com
+Barclays|barclays.com
+HSBC|hsbc.com
+Lloyds Banking Group|lloydsbankinggroup.com
+NatWest Group|natwestgroup.com
+Standard Chartered|sc.com
+BNP Paribas|bnpparibas.com
+Deutsche Bank|db.com
+UBS|ubs.com
+Lazard|lazard.com
+Lazard Freres|lazard.com
+Evercore|evercore.com
+Rothschild & Co|rothschildandco.com
+BlackRock|blackrock.com
+Vanguard|vanguard.com
+Bridgewater Associates|bridgewater.com
+Blackstone|blackstone.com
+KKR|kkr.com
+Carlyle Group|carlyle.com
+T. Rowe Price|troweprice.com
+Capital One|capitalone.com
+American Express|americanexpress.com
+Visa|visa.com
+Mastercard|mastercard.com
+PayPal|paypal.com
+Stripe|stripe.com
+Moody's|moodys.com
+Moody's Corporation|moodys.com
+Moody's Ratings|moodys.com
+S&P Global|spglobal.com
+Fitch Ratings|fitchratings.com
+Bloomberg|bloomberg.com
+Bloomberg L.P.|bloomberg.com
+Bloomberg LP|bloomberg.com
+Financial Times|ft.com
+The Economist|economist.com
+Reuters|reuters.com
+The Guardian|theguardian.com
+The Times|thetimes.com
+The New York Times|nytimes.com
+New York Times|nytimes.com
+The Washington Post|washingtonpost.com
+Politico|politico.com
+Politico Europe|politico.eu
+Axios|axios.com
+The Atlantic|theatlantic.com
+Vox|vox.com
+Semafor|semafor.com
+The Information|theinformation.com
+Wired|wired.com
+Foreign Affairs|foreignaffairs.com
+Foreign Policy|foreignpolicy.com
+Prospect Magazine|prospectmagazine.co.uk
+New Statesman|newstatesman.com
+The Spectator|spectator.co.uk
+UnHerd|unherd.com
+Tortoise Media|tortoisemedia.com
+Sky News|news.sky.com
+ITV|itv.com
+Channel 4 News|channel4.com
+NPR|npr.org
+ProPublica|propublica.org
+Freshfields|freshfields.com
+Clifford Chance|cliffordchance.com
+Linklaters|linklaters.com
+Allen & Overy|aoshearman.com
+A&O Shearman|aoshearman.com
+Slaughter and May|slaughterandmay.com
+Herbert Smith Freehills|hsfkramer.com
+Hogan Lovells|hoganlovells.com
+Covington & Burling|cov.com
+WilmerHale|wilmerhale.com
+Wachtell, Lipton, Rosen & Katz|wlrk.com
+Cleary Gottlieb|clearygottlieb.com
+Cleary Gottlieb Steen & Hamilton LLP|clearygottlieb.com
+Skadden|skadden.com
+Sullivan & Cromwell|sullcrom.com
+Latham & Watkins|lw.com
+Kirkland & Ellis|kirkland.com
+DLA Piper|dlapiper.com
+Nixon Peabody|nixonpeabody.com
+Tesla|tesla.com
+SpaceX|spacex.com
+Uber|uber.com
+Airbnb|airbnb.com
+LinkedIn|linkedin.com
+TikTok|tiktok.com
+Tik Tok|tiktok.com
+ByteDance|bytedance.com
+Snap|snap.com
+Spotify|spotify.com
+Salesforce|salesforce.com
+Oracle|oracle.com
+Cisco|cisco.com
+Siemens|siemens.com
+Siemens AG|siemens.com
+BAE Systems|baesystems.com
+BAE Systems, Inc.|baesystems.com
+Lockheed Martin|lockheedmartin.com
+Raytheon|rtx.com
+RTX|rtx.com
+Northrop Grumman|northropgrumman.com
+General Dynamics|gd.com
+Anduril|anduril.com
+Anduril Industries|anduril.com
+Shield AI|shield.ai
+Helsing|helsing.ai
+Rolls-Royce|rolls-royce.com
+BP|bp.com
+Shell|shell.com
+National Grid|nationalgrid.com
+Octopus Energy|octopus.energy
+Ørsted|orsted.com
+Eli Lilly and Company|lilly.com
+Eli Lilly|lilly.com
+Pfizer|pfizer.com
+AstraZeneca|astrazeneca.com
+GSK|gsk.com
+Novartis|novartis.com
+Kaiser Permanente|kaiserpermanente.org
+UnitedHealth Group|unitedhealthgroup.com
+Mass General Brigham|massgeneralbrigham.org
+Massachusetts General Hospital|massgeneral.org
+Brigham and Women's Hospital|brighamandwomens.org
+Unilever|unilever.com
+Mars, Inc.|mars.com
+Procter & Gamble|pg.com
+Nestlé|nestle.com
+AB InBev|ab-inbev.com
+Mitsui & Co|mitsui.com
+Sumitomo Mitsui Banking Corporation|smbcgroup.com
+Fujitsu|fujitsu.com
+Hanwha Group|hanwha.com
+Samsung|samsung.com
+Sony|sony.com
+Toyota|toyota-global.com
+Y Combinator|ycombinator.com
+Andreessen Horowitz|a16z.com
+a16z|a16z.com
+Sequoia Capital|sequoiacap.com
+Founders Fund|foundersfund.com
+Techstars|techstars.com
+Entrepreneur First|joinef.com
+SignalFire|signalfire.com
+General Catalyst|generalcatalyst.com
+Lightspeed Venture Partners|lsvp.com
+Index Ventures|indexventures.com
+Balderton Capital|balderton.com
+Atomico|atomico.com
+# --- More policy organisations (health, education, climate, security, democracy, tech policy)
+Commonwealth Fund|commonwealthfund.org
+KFF|kff.org
+Kaiser Family Foundation|kff.org
+Institute for Healthcare Improvement|ihi.org
+Institute for Health Metrics and Evaluation|healthdata.org
+IHME|healthdata.org
+Global Health Council|globalhealth.org
+Population Council|popcouncil.org
+Guttmacher Institute|guttmacher.org
+Marie Stopes International|msichoices.org
+MSI Reproductive Choices|msichoices.org
+Malaria Consortium|malariaconsortium.org
+Against Malaria Foundation|againstmalaria.com
+New Incentives|newincentives.org
+Helen Keller Intl|helenkellerintl.org
+Deworm the World Initiative|evidenceaction.org
+SCI Foundation|unlimithealth.org
+Unlimit Health|unlimithealth.org
+Development Initiatives|devinit.org
+Wellcome Trust (UK)|wellcome.org
+Médecins du Monde|medecinsdumonde.org
+Doctors Without Borders|doctorswithoutborders.org
+Global Alliance for Improved Nutrition|gainhealth.org
+GAIN|gainhealth.org
+Nutrition International|nutritionintl.org
+Center for Global Health Science and Security|ghss.georgetown.edu
+Brookings Center for Universal Education|brookings.edu
+Education Development Center|edc.org
+Room to Read|roomtoread.org
+Pratham|pratham.org
+Khan Academy|khanacademy.org
+Sutton Trust|suttontrust.com
+The Sutton Trust|suttontrust.com
+Education Policy Institute (EPI)|epi.org.uk
+Ark|arkonline.org
+Ark Schools|arkonline.org
+Oasis Charitable Trust|oasisuk.org
+Impetus|impetus.org.uk
+Teach For America (TFA)|teachforamerica.org
+Achievement First|achievementfirst.org
+KIPP|kipp.org
+Success Academy|successacademies.org
+New Profit|newprofit.org
+Climate Group|theclimategroup.org
+Carbon Trust|carbontrust.com
+CDP|cdp.net
+Ceres|ceres.org
+Climate Bonds Initiative|climatebonds.net
+Climate Policy Lab|climatepolicylab.org
+Energy Futures Initiative|energyfuturesinitiative.org
+Clean Energy Buyers Association|cebuyers.org
+Third Generation Environmentalism|e3g.org
+Institutional Investors Group on Climate Change|iigcc.org
+Institutional Investors Group on Climate Change (IIGCC)|iigcc.org
+Asia Investor Group on Climate Change|aigcc.net
+Principles for Responsible Investment|unpri.org
+PRI|unpri.org
+Global Witness (UK)|globalwitness.org
+ClientEarth|clientearth.org
+Greenpeace|greenpeace.org
+Friends of the Earth|friendsoftheearth.uk
+Earthjustice|earthjustice.org
+Conservation International|conservation.org
+Wildlife Conservation Society|wcs.org
+Wildlife Conservation Society (WCS)|wcs.org
+World Wide Fund for Nature|wwf.org.uk
+WWF-UK|wwf.org.uk
+Rainforest Foundation Norway|regnskog.no
+Rystad Energy|rystadenergy.com
+Aurora Energy Research|auroraer.com
+BloombergNEF|about.bnef.com
+Wood Mackenzie|woodmac.com
+Energy and Environmental Economics, Inc. (E3)|ethree.com
+X-Energy|x-energy.com
+Commonwealth Fusion Systems|cfs.energy
+Climeworks|climeworks.com
+Watershed|watershed.com
+Planet Labs|planet.com
+International Institute for Environment and Development|iied.org
+IIED|iied.org
+Stockholm Environment Institute|sei.org
+Potsdam Institute for Climate Impact Research|pik-potsdam.de
+Grantham Institute|imperial.ac.uk
+Smith School of Enterprise and the Environment|smithschool.ox.ac.uk
+Environmental Change Institute|eci.ox.ac.uk
+Royal United Services Institute (RUSI)|rusi.org
+International Institute for Strategic Studies (IISS)|iiss.org
+Oxford Research Group|oxfordresearchgroup.org.uk
+Saferworld|saferworld-global.org
+Conciliation Resources|c-r.org
+Centre for Humanitarian Dialogue|hdcentre.org
+HD Centre|hdcentre.org
+Geneva Centre for Security Policy|gcsp.ch
+Geneva Centre for the Democratic Control of Armed Forces|dcaf.ch
+Small Arms Survey|smallarmssurvey.org
+Bellingcat|bellingcat.com
+Airwars|airwars.org
+Royal Society of Chemistry|rsc.org
+Institute of Physics|iop.org
+Royal Statistical Society|rss.org.uk
+Royal Economic Society|res.org.uk
+Institute for Government (IfG)|instituteforgovernment.org.uk
+IfG|instituteforgovernment.org.uk
+Electoral Reform Society|electoral-reform.org.uk
+Unlock Democracy|unlockdemocracy.org
+Hansard Society|hansardsociety.org.uk
+Constitution Unit|ucl.ac.uk
+mySociety|mysociety.org
+Democracy Club|democracyclub.org.uk
+Involve|involve.org.uk
+Sortition Foundation|sortitionfoundation.org
+Citizens UK|citizensuk.org
+Shelter|shelter.org.uk
+Crisis|crisis.org.uk
+Trussell|trussell.org.uk
+Trussell Trust|trussell.org.uk
+Child Poverty Action Group|cpag.org.uk
+Citizens Advice|citizensadvice.org.uk
+StepChange|stepchange.org
+Money and Mental Health Policy Institute|moneyandmentalhealth.org
+Mind|mind.org.uk
+Centre for Mental Health|centreformentalhealth.org.uk
+Alzheimer's Society|alzheimers.org.uk
+Cancer Research UK|cancerresearchuk.org
+British Heart Foundation|bhf.org.uk
+Age UK|ageuk.org.uk
+Barnardo's|barnardos.org.uk
+NSPCC|nspcc.org.uk
+Action for Children|actionforchildren.org.uk
+Turn2us|turn2us.org.uk
+National Council for Voluntary Organisations|ncvo.org.uk
+NCVO|ncvo.org.uk
+Charities Aid Foundation|cafonline.org
+Big Society Capital|bettersocietycapital.com
+Better Society Capital|bettersocietycapital.com
+Power to Change|powertochange.org.uk
+Locality|locality.org.uk
+Royal Town Planning Institute|rtpi.org.uk
+RIBA|architecture.com
+Home Builders Federation|hbf.co.uk
+Homes England|gov.uk
+National Housing Federation|housing.org.uk
+Joseph Rowntree Housing Trust|jrf.org.uk
+Liberty|libertyhumanrights.org.uk
+Big Brother Watch|bigbrotherwatch.org.uk
+Open Rights Group|openrightsgroup.org
+Privacy International|privacyinternational.org
+Article 19|article19.org
+Access Now|accessnow.org
+Center for Countering Digital Hate|counterhate.com
+Tech Transparency Project|techtransparencyproject.org
+Coalition for Independent Technology Research|independenttechresearch.org
+Coalition for Independent Tech Research|independenttechresearch.org
+Oversight Board|oversightboard.com
+Oversight Board (Meta)|oversightboard.com
+Internet Society|internetsociety.org
+ICANN|icann.org
+Internet Watch Foundation|iwf.org.uk
+5Rights Foundation|5rightsfoundation.com
+Molly Rose Foundation|mollyrosefoundation.org
+Common Sense Media|commonsensemedia.org
+Tech Policy Press|techpolicy.press
+Rest of World|restofworld.org
+MIT Technology Review|technologyreview.com
+Platformer|platformer.news
+Stratechery|stratechery.com
+Noema Magazine|noemamag.com
+Works in Progress|worksinprogress.co
+Asterisk Magazine|asteriskmag.com
+Vox Future Perfect|vox.com
+The Dispatch|thedispatch.com
+The Free Press|thefp.com
+National Review|nationalreview.com
+The New Yorker|newyorker.com
+The Wall Street Journal|wsj.com
+Wall Street Journal|wsj.com
+CNN|cnn.com
+BBC News|bbc.co.uk
+Associated Press|apnews.com
+AP|apnews.com
+Bloomberg News|bloomberg.com
+The Telegraph|telegraph.co.uk
+Daily Mail|dailymail.co.uk
+The i Paper|inews.co.uk
+The Independent|independent.co.uk
+Evening Standard|standard.co.uk
+The Observer|observer.co.uk
+Private Eye|private-eye.co.uk
+Financial News|fnlondon.com
+Civil Service World|civilserviceworld.com
+Public Technology|publictechnology.net
+Government Computing|governmentcomputing.com
+# --- More US government and politics
+Democratic National Committee|democrats.org
+Republican National Committee|gop.com
+Labour Party|labour.org.uk
+Conservative Party|conservatives.com
+Liberal Democrats|libdems.org.uk
+Green Party|greenparty.org.uk
+Reform UK|reformparty.uk
+Scottish National Party|snp.org
+Plaid Cymru|partyof.wales
+Working Families Party|workingfamilies.org
+EMILY's List|emilyslist.org
+Leadership Now|leadershipnow.org
+Leadership Now Project|leadershipnow.org
+George W. Bush Presidential Center|bushcenter.org
+Obama Foundation|obama.org
+The Obama Foundation|obama.org
+Clinton Global Initiative|clintonfoundation.org
+Ronald Reagan Presidential Foundation|reaganfoundation.org
+National Governors Association|nga.org
+National Conference of State Legislatures|ncsl.org
+National League of Cities|nlc.org
+U.S. Conference of Mayors|usmayors.org
+ICMA|icma.org
+Bloomberg Harvard City Leadership Initiative|cityleadership.harvard.edu
+What Works Cities|whatworkscities.bloomberg.org
+Mayors Migration Council|mayorsmigrationcouncil.org
+C40 Cities|c40.org
+C40|c40.org
+ICLEI|iclei.org
+Global Covenant of Mayors|globalcovenantofmayors.org
+Cities Alliance|citiesalliance.org
+Urban Land Institute|uli.org
+Local Policy Lab|localpolicylab.org
+Public Policy Lab|publicpolicylab.org
+Center for Public Research and Leadership|cprl.law.columbia.edu
+New York City Housing Development Corporation|nyc.gov
+New York City Housing Authority|nyc.gov
+NYC Health + Hospitals|nychealthandhospitals.org
+New York-Presbyterian|nyp.org
+New York Presbyterian Hospital|nyp.org
+Montefiore Health System|montefiore.org
+Mount Sinai Health System|mountsinai.org
+Cleveland Clinic|clevelandclinic.org
+Mayo Clinic|mayoclinic.org
+American Hospital Association|aha.org
+American Medical Association|ama-assn.org
+Sanctuary for Families|sanctuaryforfamilies.org
+New York Legal Assistance Group|nylag.org
+Legal Aid Society|legalaidnyc.org
+Robin Hood Foundation|robinhood.org
+Robin Hood|robinhood.org
+United Way|unitedway.org
+Habitat for Humanity|habitat.org
+Feeding America|feedingamerica.org
+Big Brothers Big Sisters|bbbs.org
+YMCA|ymca.org
+Boys & Girls Clubs of America|bgca.org
+Points of Light|pointsoflight.org
+City Year|cityyear.org
+Year Up|yearup.org
+Per Scholas|perscholas.org
+Jobs for the Future|jff.org
+JFF|jff.org
+Burning Glass Institute|burningglassinstitute.org
+Opportunity@Work|opportunityatwork.org
+Strada Education Foundation|stradaeducation.org
+Lumina Foundation|luminafoundation.org
+Gates Ventures|gatesventures.com
+Breakthrough Energy|breakthroughenergy.org
+Bezos Earth Fund (US)|bezosearthfund.org
+Imaginable Futures|imaginablefutures.com
+Co-Impact|co-impact.org
+GiveWell (US)|givewell.org
+Charity Navigator|charitynavigator.org
+Candid|candid.org
+Center for Effective Philanthropy|cep.org
+Council on Foundations|cof.org
+Independent Sector|independentsector.org
+National Philanthropic Trust|nptrust.org
+Fidelity Charitable|fidelitycharitable.org
+Silicon Valley Community Foundation|siliconvalleycf.org
+Tides Foundation|tides.org
+NEO Philanthropy|neophilanthropy.org
+Arabella Advisors|arabellaadvisors.com
+Rockefeller Philanthropy Advisors|rockpa.org
+Panorama Global|panoramaglobal.org
+Effective Institutions Project (EIP)|effectiveinstitutionsproject.org
+Institute for Replication|i4replication.org
+Center for Open Science|cos.io
+Our World in Data|ourworldindata.org
+Gapminder|gapminder.org
+USAFacts|usafacts.org
+FiveThirtyEight|abcnews.go.com
+YouGov|yougov.co.uk
+Ipsos|ipsos.com
+Gallup|gallup.com
+Morning Consult|morningconsult.com
+Opinium|opinium.com
+Savanta|savanta.com
+Survation|survation.com
+Deltapoll|deltapoll.co.uk
+JL Partners|jlpartners.co.uk
+Stack Data Strategy|stackdatastrategy.com
+Persuasion|persuasion.community
+Bright Line Watch|brightlinewatch.org
+Protect Democracy|protectdemocracy.org
+Democracy Fund|democracyfund.org
+States United Democracy Center|statesunited.org
+Center for Election Innovation and Research|electioninnovation.org
+Issue One|issueone.org
+Unite America|uniteamerica.org
+Braver Angels|braverangels.org
+Listen First Project|listenfirstproject.org
+Bridge Alliance|bridgealliance.us
+New Democrat Network|ndn.org
+# --- More: regional think tanks, regulators, agencies and research bodies
+European Banking Authority|eba.europa.eu
+European Securities and Markets Authority|esma.europa.eu
+ESMA|esma.europa.eu
+European Medicines Agency|ema.europa.eu
+European Environment Agency|eea.europa.eu
+European Defence Agency|eda.europa.eu
+European Research Council|erc.europa.eu
+Eurostat|ec.europa.eu
+European Court of Auditors|eca.europa.eu
+European Economic and Social Committee|eesc.europa.eu
+Committee of the Regions|cor.europa.eu
+Frontex|frontex.europa.eu
+CNIL|cnil.fr
+Bundeskartellamt|bundeskartellamt.de
+Autorité de la concurrence|autoritedelaconcurrence.fr
+Irish Data Protection Commission|dataprotection.ie
+Australian Competition and Consumer Commission|accc.gov.au
+eSafety Commissioner|esafety.gov.au
+Competition Bureau Canada|competition-bureau.canada.ca
+Korea Development Institute|kdi.re.kr
+Japan Institute of International Affairs|jiia.or.jp
+Research Institute of Economy, Trade and Industry|rieti.go.jp
+Nomura Research Institute|nri.com
+Tokyo Foundation for Policy Research|tkfd.or.jp
+S. Rajaratnam School of International Studies|rsis.edu.sg
+ISEAS–Yusof Ishak Institute|iseas.edu.sg
+Institute of Policy Studies Singapore|lkyspp.nus.edu.sg
+Centre for Strategic and International Studies Indonesia|csis.or.id
+Gateway House|gatewayhouse.in
+Carnegie Endowment India|carnegieindia.org
+Indian Council for Research on International Economic Relations|icrier.org
+ICRIER|icrier.org
+Brookings Doha Center|brookings.edu
+Gulf Research Center|grc.net
+Emirates Policy Center|epc.ae
+Institute for National Security Studies|inss.org.il
+Israel Democracy Institute|idi.org.il
+Shalom Hartman Institute|hartman.org.il
+South African Institute of International Affairs|saiia.org.za
+Institute for Security Studies Africa|issafrica.org
+African Center for Economic Transformation|acetforafrica.org
+Mo Ibrahim Foundation|mo.ibrahim.foundation
+Africa Center for Strategic Studies|africacenter.org
+Tony Elumelu Foundation|tonyelumelufoundation.org
+Murtala Muhammed Foundation|mmf.ng
+African Leadership Academy|africanleadershipacademy.org
+Fundação Getulio Vargas|portal.fgv.br
+FGV|portal.fgv.br
+Centro de Estudios Públicos|cepchile.cl
+Centro de Estudios Públicos (CEP)|cepchile.cl
+CIDE|cide.edu
+Igarapé Institute|igarape.org.br
+Instituto Igarapé|igarape.org.br
+Fedesarrollo|fedesarrollo.org.co
+Global Americans|theglobalamericans.org
+Inter-American Dialogue|thedialogue.org
+Council of the Americas|as-coa.org
+Americas Society|as-coa.org
+Wilson Center Latin America Program|wilsoncenter.org
+Centre for International Policy Studies|cips.uottawa.ca
+Institute for Research on Public Policy|irpp.org
+Public Policy Forum|ppforum.ca
+Macdonald-Laurier Institute|macdonaldlaurier.ca
+Fraser Institute|fraserinstitute.org
+Brookfield Institute|brookfieldinstitute.ca
+Canadian International Council|thecic.org
+Australian Institute of International Affairs|internationalaffairs.org.au
+Centre for Independent Studies|cis.org.au
+Per Capita|percapita.org.au
+McKell Institute|mckellinstitute.org.au
+e61 Institute|e61.in
+New Zealand Initiative|nzinitiative.org.nz
+Motu Economic and Public Policy Research|motu.nz
+Bruegel (Brussels)|bruegel.org
+Friends of Europe|friendsofeurope.org
+Carnegie Europe|carnegieendowment.org
+European Policy Innovation Council|epicenternetwork.eu
+Centre for European Policy|cep.eu
+Elcano Royal Institute|realinstitutoelcano.org
+Istituto Affari Internazionali|iai.it
+ISPI|ispionline.it
+Polish Institute of International Affairs|pism.pl
+Finnish Institute of International Affairs|fiia.fi
+Swedish Institute of International Affairs|ui.se
+Norwegian Institute of International Affairs|nupi.no
+Danish Institute for International Studies|diis.dk
+Egmont Institute|egmontinstitute.be
+Netherlands Institute of International Relations Clingendael|clingendael.org
+Austrian Institute for International Affairs|oiip.ac.at
+Wiener Institut für Internationale Wirtschaftsvergleiche|wiiw.ac.at
+Max Planck Institute|mpg.de
+Max Planck Society|mpg.de
+Fraunhofer|fraunhofer.de
+Helmholtz Association|helmholtz.de
+CNRS|cnrs.fr
+INRIA|inria.fr
+CERN|home.cern
+European Space Agency|esa.int
+ESA|esa.int
+EUMETSAT|eumetsat.int
+ECMWF|ecmwf.int
+Royal Holloway|royalholloway.ac.uk
+Loughborough University|lboro.ac.uk
+University of Bath|bath.ac.uk
+Institute for Policy Research, University of Bath|bath.ac.uk
+University of Leicester|le.ac.uk
+University of Liverpool|liverpool.ac.uk
+Heseltine Institute|liverpool.ac.uk
+University of Kent|kent.ac.uk
+University of Reading|reading.ac.uk
+University of Surrey|surrey.ac.uk
+University of St Andrews|st-andrews.ac.uk
+University of Aberdeen|abdn.ac.uk
+University of Strathclyde|strath.ac.uk
+Swansea University|swansea.ac.uk
+Aston University|aston.ac.uk
+Brunel University London|brunel.ac.uk
+Goldsmiths, University of London|gold.ac.uk
+Birkbeck, University of London|bbk.ac.uk
+London Business School|london.edu
+Cranfield University|cranfield.ac.uk
+Open University|open.ac.uk
