@@ -7,9 +7,22 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<meta name="theme-color" content="#5b2a86">
+<meta name="theme-color" content="#f5f3f7">
+<meta name="description" content="Your job search, with friends. Install Grapevine and share any opportunity straight into it.">
+<meta property="og:title" content="Get Grapevine">
+<meta property="og:description" content="Your job search, with friends. Install it and share any opportunity straight in.">
+<meta property="og:image" content="https://tjsteer.github.io/grapevine-share/icon-512.png">
+<meta property="og:url" content="https://tjsteer.github.io/grapevine-share/">
+<meta property="og:type" content="website">
 <script>
 /* If this page was opened from the share menu, pass the link straight on to Grapevine. */
+/* Open the tracker in the Claude app on Android (no browser bar); fall back to the browser. */
+function openTracker(url){var ua=navigator.userAgent||'';
+  if(/Android/i.test(ua)){var h=url.replace(/^https:\/\//,'');var fb=encodeURIComponent(url);
+    var left=false;document.addEventListener('visibilitychange',function(){if(document.hidden)left=true});
+    location.href='intent://'+h+'#Intent;scheme=https;package=com.anthropic.claude;S.browser_fallback_url='+fb+';end';
+    setTimeout(function(){if(!left)location.replace(url)},1600)}
+  else location.replace(url)}
 (function(){
   var TRACKER='https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35';
   var q=new URLSearchParams(location.search);
@@ -17,7 +30,7 @@
   if(!/^https?:\/\//i.test(url)){var m=(text+' '+title).match(/https?:\/\/[^\s<>"']+/i);url=m?m[0].replace(/[),.;!?]+$/,''):''}
   if(!url){if(q.has('url')||q.has('text')||q.has('title')){window.__noLink=true;return}
     /* Opened from the home-screen icon: go straight to the tracker. */
-    if(window.matchMedia&&matchMedia('(display-mode: standalone)').matches&&!q.has('setup'))location.replace(TRACKER);return}
+    if(window.matchMedia&&matchMedia('(display-mode: standalone)').matches&&!q.has('setup')){window.__launch=true;openTracker(TRACKER)}return}
   if(!title){title=text.replace(url,'').trim()}
   var p={u:url,t:title.slice(0,160),s:'',d:''};
   var enc=encodeURIComponent(JSON.stringify(p)).replace(/[!'()*~]/g,function(c){return '%'+c.charCodeAt(0).toString(16).toUpperCase()}).replace(/%/g,'~');
@@ -47,6 +60,7 @@ li b{color:var(--ink)}
 .btn.ghost{background:none;color:var(--accent);border:1px solid var(--line)}
 .row{display:flex;gap:10px;flex-wrap:wrap}
 .note{font-size:14px;color:var(--muted)}
+#android,#ios{display:flex;flex-direction:column;gap:12px}
 [hidden]{display:none!important}
 .done{background:var(--accent-soft);border-radius:16px;padding:14px 16px;color:var(--ink)}
 </style>
@@ -56,35 +70,54 @@ li b{color:var(--ink)}
   <div class="brand"><svg viewBox="0 0 26 26" aria-hidden="true"><path d="M13 7.6c0-2.2 1-3.9 2.8-4.9" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M14.6 5.2c1.9-2.6 5.4-3.1 8-1.7-1.5 2.7-5 3.8-8 1.7z" fill="var(--leaf)"/><g fill="currentColor"><circle cx="8.2" cy="11" r="2.9"/><circle cx="13" cy="10.6" r="2.9"/><circle cx="17.8" cy="11" r="2.9"/><circle cx="10.6" cy="15.6" r="2.9"/><circle cx="15.4" cy="15.6" r="2.9"/><circle cx="13" cy="20.2" r="2.9"/></g></svg>grapevine</div>
 
   <section id="sending" hidden><h1>Sending it to <em>Grapevine</em>…</h1><p>If nothing happens, <a id="manual" href="#">tap here</a>.</p></section>
+  <section id="opening" hidden><h1>Opening <em>Grapevine</em>…</h1><p>If nothing happens, <a id="manual2" href="https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35">tap here</a>.</p></section>
   <section id="nolink" hidden class="done">That share didn’t include a link. Try sharing the page itself, or copy its address and paste it into Grapevine.</section>
 
   <section id="setup">
-    <h1>Put Grapevine in your <em>share menu.</em></h1>
-    <p style="margin-top:12px">Once it’s installed, any job page in Chrome, LinkedIn or anywhere else is two taps from your tracker: <b>Share</b>, then <b>Grapevine</b>.</p>
+    <h1>Your job search, <em>with friends.</em></h1>
+    <p style="margin-top:12px">Grapevine finds openings that fit you every morning, tracks what you apply for, and lets friends pass each other leads and intros. Install it and any job page is two taps away: <b>Share</b>, then <b>Grapevine</b>.</p>
   </section>
 
-  <div id="installed" class="done" hidden>Installed. Grapevine is now in your share menu. Try it: open any job page, tap Share, and pick Grapevine.</div>
+  <div id="installed" class="done" hidden>Installed. Grapevine is on your home screen and in your share menu. Try it: open any job page, tap Share, and pick Grapevine.</div>
 
-  <div class="row" id="installrow" hidden><button class="btn" id="install" type="button">Install Grapevine</button></div>
+  <div id="android">
+    <div class="row" id="installrow" hidden><button class="btn" id="install" type="button">Install Grapevine</button></div>
+    <div id="inapp" class="done" hidden>You’re in an in-app browser, which can’t install apps. Tap <b>⋮</b> at the top right and choose <b>Open in Chrome</b>, then come back to this page.</div>
+    <ol id="steps">
+      <li><span>Tap <b>⋮</b> at the top right of Chrome, then <b>Install app</b> or <b>Add to Home screen</b>.</span></li>
+      <li><span>Open Grapevine from the new icon and sign in with Claude. A free Claude account works.</span></li>
+      <li><span>On any job page, tap <b>Share</b> and pick <b>Grapevine</b>. It lands in your tracker, filled in.</span></li>
+    </ol>
+  </div>
 
-  <ol id="steps">
-    <li><span>Open this page in <b>Chrome</b> on your phone.</span></li>
-    <li><span>Tap <b>⋮</b> at the top right, then <b>Install app</b> or <b>Add to Home screen</b>. If Chrome offers an install button here, that works too.</span></li>
-    <li><span>Share any job page and choose <b>Grapevine</b>. It opens your tracker and adds the job, filled in.</span></li>
-  </ol>
+  <div id="ios" hidden>
+    <ol>
+      <li><span>In <b>Safari</b>, tap <b>Share</b> (the square with an arrow), then <b>Add to Home Screen</b>. That gives you the Grapevine icon.</span></li>
+      <li><span>Open Grapevine from the icon and sign in with Claude. A free Claude account works.</span></li>
+      <li><span>To share links in, open Grapevine’s profile and follow <b>Add from anywhere</b>. It takes about a minute to set up the iPhone Shortcut.</span></li>
+    </ol>
+  </div>
 
-  <div class="row"><a class="btn ghost" href="https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35">Open Grapevine</a></div>
-  <p class="note">This page only passes links on. It stores nothing, and your tracker stays in your Claude account. On iPhone, use the Shortcut described in Grapevine’s “Add from anywhere” settings instead.</p>
+  <div class="row"><a class="btn ghost" id="opengv" href="https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35">Open Grapevine</a></div>
+  <p class="note">If Grapevine says you don’t have access, ask the friend who sent you this link to share it with you from Claude. This page only passes links on; it stores nothing.</p>
 </main>
 <script>
-if(window.__target){document.getElementById('sending').hidden=false;document.getElementById('setup').hidden=true;document.getElementById('steps').hidden=true;document.getElementById('manual').href=window.__target}
+var ua=navigator.userAgent||'',isIOS=/iPhone|iPad|iPod/i.test(ua)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1),isAndroid=/Android/i.test(ua);
+var inApp=/(FBAN|FBAV|Instagram|Line\/|WhatsApp|; wv\)|LinkedInApp|Twitter)/i.test(ua);
+if(window.__target){document.getElementById('sending').hidden=false;document.getElementById('manual').href=window.__target}
+if(window.__launch){document.getElementById('opening').hidden=false}
+if(window.__target||window.__launch){['setup','android','ios','opengv'].forEach(function(id){var e=document.getElementById(id);if(e)(e.closest('.row')||e).hidden=true});document.querySelector('.note').hidden=true}
+else{
+  if(isIOS){document.getElementById('android').hidden=true;document.getElementById('ios').hidden=false}
+  if(isAndroid&&inApp){document.getElementById('inapp').hidden=false}
+  document.getElementById('opengv').addEventListener('click',function(e){if(isAndroid){e.preventDefault();openTracker(this.href)}});
+}
 if(window.__noLink){document.getElementById('nolink').hidden=false}
 if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(function(){});
 var deferred=null;
-addEventListener('beforeinstallprompt',function(e){e.preventDefault();deferred=e;document.getElementById('installrow').hidden=false});
+addEventListener('beforeinstallprompt',function(e){e.preventDefault();deferred=e;document.getElementById('installrow').hidden=false;document.getElementById('steps').firstElementChild.hidden=true});
 document.getElementById('install').addEventListener('click',function(){if(!deferred)return;deferred.prompt();deferred.userChoice.then(function(){deferred=null;document.getElementById('installrow').hidden=true})});
-addEventListener('appinstalled',function(){document.getElementById('installed').hidden=false;document.getElementById('installrow').hidden=true});
-if(matchMedia('(display-mode: standalone)').matches&&!window.__target){document.getElementById('installed').hidden=false;document.getElementById('steps').hidden=true}
+addEventListener('appinstalled',function(){document.getElementById('installed').hidden=false;document.getElementById('installrow').hidden=true;document.getElementById('steps').hidden=true});
 </script>
 </body>
 </html>
