@@ -7,7 +7,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<meta name="theme-color" content="#f5f3f7">
+<meta name="theme-color" content="#ffffff">
 <meta name="description" content="Your job search, with friends. Install Grapevine and share any opportunity straight into it.">
 <meta property="og:title" content="Get Grapevine">
 <meta property="og:description" content="Your job search, with friends. Install it and share any opportunity straight in.">
@@ -17,12 +17,14 @@
 <script>
 /* If this page was opened from the share menu, pass the link straight on to Grapevine. */
 /* Open the tracker in the Claude app on Android (no browser bar); fall back to the browser. */
+/* Open the tracker in the Claude app on Android, which shows no browser bar. Chrome only allows that
+   hand-over reliably from a tap, so if the automatic attempt is blocked we show one big button. */
+function appLink(url,fallback){var h=url.replace(/^https:\/\//,'');return 'intent://'+h+'#Intent;scheme=https;package=com.anthropic.claude;'+(fallback?'S.browser_fallback_url='+encodeURIComponent(url)+';':'')+'end'}
 function openTracker(url){var ua=navigator.userAgent||'';
-  if(/Android/i.test(ua)){var h=url.replace(/^https:\/\//,'');var fb=encodeURIComponent(url);
-    var left=false;document.addEventListener('visibilitychange',function(){if(document.hidden)left=true});
-    location.href='intent://'+h+'#Intent;scheme=https;package=com.anthropic.claude;S.browser_fallback_url='+fb+';end';
-    setTimeout(function(){if(!left)location.replace(url)},1600)}
-  else location.replace(url)}
+  if(!/Android/i.test(ua)){location.replace(url);return}
+  var left=false;document.addEventListener('visibilitychange',function(){if(document.hidden)left=true});
+  try{location.href=appLink(url,false)}catch(e){}
+  setTimeout(function(){if(left)return;var o=document.getElementById('opening');if(o){o.hidden=false;o.classList.add('tapme')}},900)}
 (function(){
   var TRACKER='https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35';
   var q=new URLSearchParams(location.search);
@@ -70,7 +72,7 @@ li b{color:var(--ink)}
   <div class="brand"><svg viewBox="0 0 26 26" aria-hidden="true"><path d="M13 7.6c0-2.2 1-3.9 2.8-4.9" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M14.6 5.2c1.9-2.6 5.4-3.1 8-1.7-1.5 2.7-5 3.8-8 1.7z" fill="var(--leaf)"/><g fill="currentColor"><circle cx="8.2" cy="11" r="2.9"/><circle cx="13" cy="10.6" r="2.9"/><circle cx="17.8" cy="11" r="2.9"/><circle cx="10.6" cy="15.6" r="2.9"/><circle cx="15.4" cy="15.6" r="2.9"/><circle cx="13" cy="20.2" r="2.9"/></g></svg>grapevine</div>
 
   <section id="sending" hidden><h1>Sending it to <em>Grapevine</em>…</h1><p>If nothing happens, <a id="manual" href="#">tap here</a>.</p></section>
-  <section id="opening" hidden><h1>Opening <em>Grapevine</em>…</h1><p>If nothing happens, <a id="manual2" href="https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35">tap here</a>.</p></section>
+  <section id="opening" hidden><h1>Open <em>Grapevine</em></h1><div class="row" style="margin-top:18px"><a class="btn" id="openapp" href="#">Open Grapevine</a></div><p class="note" style="margin-top:14px">Opens in the Claude app if you have it, with no browser bar. <a id="manual2" href="https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35">Open in Chrome instead</a></p></section>
   <section id="nolink" hidden class="done">That share didn’t include a link. Try sharing the page itself, or copy its address and paste it into Grapevine.</section>
 
   <section id="setup">
@@ -105,12 +107,12 @@ li b{color:var(--ink)}
 var ua=navigator.userAgent||'',isIOS=/iPhone|iPad|iPod/i.test(ua)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1),isAndroid=/Android/i.test(ua);
 var inApp=/(FBAN|FBAV|Instagram|Line\/|WhatsApp|; wv\)|LinkedInApp|Twitter)/i.test(ua);
 if(window.__target){document.getElementById('sending').hidden=false;document.getElementById('manual').href=window.__target}
-if(window.__launch){document.getElementById('opening').hidden=false}
+if(window.__launch){document.getElementById('openapp').href=appLink('https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35',true)}
 if(window.__target||window.__launch){['setup','android','ios','opengv'].forEach(function(id){var e=document.getElementById(id);if(e)(e.closest('.row')||e).hidden=true});document.querySelector('.note').hidden=true}
 else{
   if(isIOS){document.getElementById('android').hidden=true;document.getElementById('ios').hidden=false}
   if(isAndroid&&inApp){document.getElementById('inapp').hidden=false}
-  document.getElementById('opengv').addEventListener('click',function(e){if(isAndroid){e.preventDefault();openTracker(this.href)}});
+  if(isAndroid)document.getElementById('opengv').href=appLink('https://claude.ai/artifact/1d7qs21AaBSmZVSGFNZA35',true);
 }
 if(window.__noLink){document.getElementById('nolink').hidden=false}
 if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(function(){});
