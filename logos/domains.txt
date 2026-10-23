@@ -2204,3 +2204,11 @@ ERA|erafellowship.org
 Oxford Martin AI Governance Initiative|aigi.ox.ac.uk
 Inherent AI & Cosmos Institute|cosmos-institute.org
 Cosmos Institute|cosmos-institute.org
+# --- Added from Grapevine's queue
+AI Whistleblower Initiative (AIWI)|aiwi.org
+AI Whistleblower Initiative|aiwi.org
+AIWI|aiwi.org
+Kairos|kairos-project.org
+American Economic Association / Allied Social Science Associations|aeaweb.org
+American Economic Association|aeaweb.org
+Allied Social Science Associations|aeaweb.org
