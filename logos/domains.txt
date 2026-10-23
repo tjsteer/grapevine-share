@@ -2191,3 +2191,16 @@ Birkbeck, University of London|bbk.ac.uk
 London Business School|london.edu
 Cranfield University|cranfield.ac.uk
 Open University|open.ac.uk
+# --- Added from Grapevine's queue
+Sovereign AI Fund (UK Government, via Civil Service Jobs)|gov.uk
+Sovereign AI Fund|gov.uk
+UK Government|gov.uk
+UK AI Security Institute (DSIT)|aisi.gov.uk
+Sparrow Infrastructure (Atlas Computing Institute)|atlascomputing.org
+Atlas Computing Institute|atlascomputing.org
+Atlas Computing|atlascomputing.org
+ERA with the Oxford Martin AI Governance Initiative|erafellowship.org
+ERA|erafellowship.org
+Oxford Martin AI Governance Initiative|aigi.ox.ac.uk
+Inherent AI & Cosmos Institute|cosmos-institute.org
+Cosmos Institute|cosmos-institute.org
