@@ -2212,3 +2212,7 @@ Kairos|kairos-project.org
 American Economic Association / Allied Social Science Associations|aeaweb.org
 American Economic Association|aeaweb.org
 Allied Social Science Associations|aeaweb.org
+
+# --- Added from Grapevine's queue
+Forethought|forethought.org
+Westminster Employment Forum|westminsterforumprojects.co.uk
