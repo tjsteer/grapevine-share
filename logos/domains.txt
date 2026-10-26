@@ -2216,3 +2216,7 @@ Allied Social Science Associations|aeaweb.org
 # --- Added from Grapevine's queue
 Forethought|forethought.org
 Westminster Employment Forum|westminsterforumprojects.co.uk
+Apart Research|apartresearch.com
+Royal Institute of Philosophy (journal Philosophy, Cambridge University Press)|royalinstitutephilosophy.org
+Royal Institute of Philosophy|royalinstitutephilosophy.org
+Cambridge University Press|cambridge.org
