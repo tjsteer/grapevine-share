@@ -2220,3 +2220,16 @@ Apart Research|apartresearch.com
 Royal Institute of Philosophy (journal Philosophy, Cambridge University Press)|royalinstitutephilosophy.org
 Royal Institute of Philosophy|royalinstitutephilosophy.org
 Cambridge University Press|cambridge.org
+# --- Added from Grapevine's queue
+globalchallengesproject.org|globalchallengesproject.org
+Global Challenges Project (a Kairos workshop)|globalchallengesproject.org
+Global Challenges Project|globalchallengesproject.org
+theaidigest.org|theaidigest.org
+AI Digest (AI Village)|theaidigest.org
+AI Digest|theaidigest.org
+AI Village|theaidigest.org
+lensacademy.org|lensacademy.org
+Lens Academy|lensacademy.org
+The Midas Project|themidasproject.com
+Peterson Institute for International Economics (PIIE), with the IMF, OECD and World Bank|piie.com
+PIIE|piie.com
