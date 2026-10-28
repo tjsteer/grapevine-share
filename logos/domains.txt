@@ -2233,3 +2233,8 @@ Lens Academy|lensacademy.org
 The Midas Project|themidasproject.com
 Peterson Institute for International Economics (PIIE), with the IMF, OECD and World Bank|piie.com
 PIIE|piie.com
+# --- Added from Grapevine's queue
+St. Gallen Symposium (International Students' Committee)|symposium.org
+St. Gallen Symposium|symposium.org
+International Students' Committee|symposium.org
+Which?|which.co.uk
