@@ -2238,3 +2238,10 @@ St. Gallen Symposium (International Students' Committee)|symposium.org
 St. Gallen Symposium|symposium.org
 International Students' Committee|symposium.org
 Which?|which.co.uk
+# --- Added from Grapevine's queue
+SIRA Fellowship|sirafellowship.org
+Mangrove|mangrove.one
+PhiAI|phiand.ai
+Global Technology Risk Foundation (GTR Foundation)|gtr-foundation.org
+Global Technology Risk Foundation|gtr-foundation.org
+GTR Foundation|gtr-foundation.org
