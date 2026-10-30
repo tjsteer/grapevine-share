@@ -2245,3 +2245,8 @@ PhiAI|phiand.ai
 Global Technology Risk Foundation (GTR Foundation)|gtr-foundation.org
 Global Technology Risk Foundation|gtr-foundation.org
 GTR Foundation|gtr-foundation.org
+# --- Added from Grapevine's queue
+High Impact Professionals (HIP)|highimpactprofessionals.org
+High Impact Professionals|highimpactprofessionals.org
+Entrepreneurs First and BlueDot Impact|joinef.com
+Entrepreneurs First|joinef.com
