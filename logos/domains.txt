@@ -2250,3 +2250,8 @@ High Impact Professionals (HIP)|highimpactprofessionals.org
 High Impact Professionals|highimpactprofessionals.org
 Entrepreneurs First and BlueDot Impact|joinef.com
 Entrepreneurs First|joinef.com
+# --- Added from Grapevine's queue
+Gen Stream|genstream.org
+Principles of Intelligence (PrincInt)|princint.ai
+Principles of Intelligence|princint.ai
+PrincInt|princint.ai
