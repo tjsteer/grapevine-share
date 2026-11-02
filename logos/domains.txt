@@ -2255,3 +2255,5 @@ Gen Stream|genstream.org
 Principles of Intelligence (PrincInt)|princint.ai
 Principles of Intelligence|princint.ai
 PrincInt|princint.ai
+AI Safety for Builders|aisafety.builders
+Beijing AI Safety Hub (BASH), Tsinghua University|tsinghua.edu.cn
