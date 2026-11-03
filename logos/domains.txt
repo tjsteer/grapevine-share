@@ -2257,3 +2257,10 @@ Principles of Intelligence|princint.ai
 PrincInt|princint.ai
 AI Safety for Builders|aisafety.builders
 Beijing AI Safety Hub (BASH), Tsinghua University|tsinghua.edu.cn
+# --- Added from Grapevine's queue
+The Politics Project|thepoliticsproject.org.uk
+Cleo|meetcleo.com
+Cosmos Institute / Cosmos Ventures|cosmos-institute.org
+Cosmos Ventures|cosmos-institute.org
+Talent Commons|talentcommons.org
+talentcommons.org|talentcommons.org
