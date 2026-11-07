@@ -2274,3 +2274,6 @@ Elevate Philanthropy|elevatephilanthropy.com
 Institute for Environmental and Civic Research (IECR)|iecr.org.uk
 Institute for Environmental and Civic Research|iecr.org.uk
 IECR|iecr.org.uk
+# --- Added from Grapevine's queue
+Talos Network|talosnetwork.org
+Metro Dynamics|metrodynamics.co.uk
