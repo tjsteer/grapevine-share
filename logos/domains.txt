@@ -2277,3 +2277,7 @@ IECR|iecr.org.uk
 # --- Added from Grapevine's queue
 Talos Network|talosnetwork.org
 Metro Dynamics|metrodynamics.co.uk
+The Whitehall & Industry Group (WIG)|wig.co.uk
+The Whitehall & Industry Group|wig.co.uk
+Whitehall & Industry Group|wig.co.uk
+Lightcone Commons|lightconecommons.com
