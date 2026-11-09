@@ -2281,3 +2281,5 @@ The Whitehall & Industry Group (WIG)|wig.co.uk
 The Whitehall & Industry Group|wig.co.uk
 Whitehall & Industry Group|wig.co.uk
 Lightcone Commons|lightconecommons.com
+# --- Added from Grapevine's queue
+Cosmos Institute with Inherent|cosmos-institute.org
