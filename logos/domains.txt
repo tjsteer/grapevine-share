@@ -2283,3 +2283,6 @@ Whitehall & Industry Group|wig.co.uk
 Lightcone Commons|lightconecommons.com
 # --- Added from Grapevine's queue
 Cosmos Institute with Inherent|cosmos-institute.org
+# --- Added from Grapevine's queue
+OpenAI Foundation|openaifoundation.org
+Asterisk|asteriskmag.com
