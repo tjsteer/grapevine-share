@@ -2286,3 +2286,12 @@ Cosmos Institute with Inherent|cosmos-institute.org
 # --- Added from Grapevine's queue
 OpenAI Foundation|openaifoundation.org
 Asterisk|asteriskmag.com
+# --- Added from Grapevine's queue
+AI Verification and Evaluation Research Institute (AVERI)|averi.org
+AI Verification and Evaluation Research Institute|averi.org
+AVERI|averi.org
+In Development and Asterisk|indevelopmentmag.com
+In Development|indevelopmentmag.com
+Stigler Center, University of Chicago Booth School of Business|chicagobooth.edu
+Stigler Center|chicagobooth.edu
+University of Chicago Booth School of Business|chicagobooth.edu
