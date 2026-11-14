@@ -2300,3 +2300,7 @@ Hacienda Pública Española / Review of Public Economics|ief.es
 Hacienda Pública Española|ief.es
 Review of Public Economics|ief.es
 Instituto de Estudios Fiscales|ief.es
+# --- Added from Grapevine's queue
+School for Moral Ambition|moralambition.org
+Future of Life Foundation (FLF)|flf.org
+Future of Life Foundation|flf.org
