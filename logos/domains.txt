@@ -2304,3 +2304,12 @@ Instituto de Estudios Fiscales|ief.es
 School for Moral Ambition|moralambition.org
 Future of Life Foundation (FLF)|flf.org
 Future of Life Foundation|flf.org
+# --- Added from Grapevine's queue
+Women Who Do Data (W2D2)|w2d2.org
+Women Who Do Data|w2d2.org
+W2D2|w2d2.org
+Swiss Confederation (Geneva AI Summit)|admin.ch
+Swiss Confederation|admin.ch
+Geneva AI Summit|genevaaisummit.swiss
+Mercor (AI Research Fund)|mercor.com
+Mercor|mercor.com
