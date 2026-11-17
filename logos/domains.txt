@@ -2313,3 +2313,10 @@ Swiss Confederation|admin.ch
 Geneva AI Summit|genevaaisummit.swiss
 Mercor (AI Research Fund)|mercor.com
 Mercor|mercor.com
+# --- Added from Grapevine's queue
+Center for AI Risk Management & Alignment (CARMA)|carma.org
+CARMA (Center for AI Risk Management & Alignment)|carma.org
+Center for AI Risk Management & Alignment|carma.org
+CARMA|carma.org
+AI Safety Camp|aisafety.camp
+Co-operative Party|party.coop
