@@ -2320,3 +2320,10 @@ Center for AI Risk Management & Alignment|carma.org
 CARMA|carma.org
 AI Safety Camp|aisafety.camp
 Co-operative Party|party.coop
+# --- Added from Grapevine's queue
+HK AI Safety Hub (HASH)|hkaisafetyhub.org
+Hong Kong AI Safety Hub (HASH)|hkaisafetyhub.org
+Hong Kong AI Safety Hub|hkaisafetyhub.org
+HK AI Safety Hub|hkaisafetyhub.org
+Responsible AIxBio Collaborative (R-ABC)|nti.org
+Responsible AIxBio Collaborative|nti.org
