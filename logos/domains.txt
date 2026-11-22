@@ -2327,3 +2327,7 @@ Hong Kong AI Safety Hub|hkaisafetyhub.org
 HK AI Safety Hub|hkaisafetyhub.org
 Responsible AIxBio Collaborative (R-ABC)|nti.org
 Responsible AIxBio Collaborative|nti.org
+# --- Added from Grapevine's queue
+The AI Policy Network (AIPN)|theaipn.org
+The AI Policy Network|theaipn.org
+AIPN|theaipn.org
