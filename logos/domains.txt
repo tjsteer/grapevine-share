@@ -2331,3 +2331,7 @@ Responsible AIxBio Collaborative|nti.org
 The AI Policy Network (AIPN)|theaipn.org
 The AI Policy Network|theaipn.org
 AIPN|theaipn.org
+# --- Added from Grapevine's queue
+College of Policing (PoliceAI, National Centre for AI in Policing)|college.police.uk
+College of Policing|college.police.uk
+SPAR|sparai.org
