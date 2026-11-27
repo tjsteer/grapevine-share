@@ -2335,3 +2335,6 @@ AIPN|theaipn.org
 College of Policing (PoliceAI, National Centre for AI in Policing)|college.police.uk
 College of Policing|college.police.uk
 SPAR|sparai.org
+# --- Added from Grapevine's queue
+Arq Foundation|arq.foundation
+AI & Democracy Foundation|ai-democracy.org
